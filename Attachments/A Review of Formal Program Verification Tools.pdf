@@ -1,0 +1,2055 @@
+%PDF-1.4
+%‚„œ”
+12 0 obj
+<< /Type /Encoding
+/Differences [ 1/dotaccent/fi/fl/fraction/hungarumlaut/Lslash
+/lslash/ogonek/ring 11/breve/minus 14/Zcaron/zcaron/caron/dotlessi
+/dotlessj/ff/ffi/ffl/notequal/infinity/lessequal/greaterequal
+/partialdiff/summation/product/pi/grave/quotesingle/space/exclam
+/quotedbl/numbersign/dollar/percent/ampersand/quoteright/parenleft
+/parenright/asterisk/plus/comma/hyphen/period/slash/zero/one
+/two/three/four/five/six/seven/eight/nine/colon/semicolon/less
+/equal/greater/question/at/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q
+/R/S/T/U/V/W/X/Y/Z/bracketleft/backslash/bracketright/asciicircum
+/underscore/quoteleft/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t
+/u/v/w/x/y/z/braceleft/bar/braceright/asciitilde 128/Euro/integral
+/quotesinglbase/florin/quotedblbase/ellipsis/dagger/daggerdbl
+/circumflex/perthousand/Scaron/guilsinglleft/OE/Omega/radical
+/approxequal 147/quotedblleft/quotedblright/bullet/endash/emdash
+/tilde/trademark/scaron/guilsinglright/oe/Delta/lozenge/Ydieresis
+ 161/exclamdown/cent/sterling/currency/yen/brokenbar/section
+/dieresis/copyright/ordfeminine/guillemotleft/logicalnot/hyphen
+/registered/macron/degree/plusminus/twosuperior/threesuperior
+/acute/mu/paragraph/periodcentered/cedilla/onesuperior/ordmasculine
+/guillemotright/onequarter/onehalf/threequarters/questiondown
+/Agrave/Aacute/Acircumflex/Atilde/Adieresis/Aring/AE/Ccedilla
+/Egrave/Eacute/Ecircumflex/Edieresis/Igrave/Iacute/Icircumflex
+/Idieresis/Eth/Ntilde/Ograve/Oacute/Ocircumflex/Otilde/Odieresis
+/multiply/Oslash/Ugrave/Uacute/Ucircumflex/Udieresis/Yacute/Thorn
+/germandbls/agrave/aacute/acircumflex/atilde/adieresis/aring
+/ae/ccedilla/egrave/eacute/ecircumflex/edieresis/igrave/iacute
+/icircumflex/idieresis/eth/ntilde/ograve/oacute/ocircumflex/otilde
+/odieresis/divide/oslash/ugrave/uacute/ucircumflex/udieresis
+/yacute/thorn/ydieresis] >>
+endobj
+18 0 obj
+<<
+/Length 11644
+>>
+stream
+1 g
+/Gs11 gs
+0 0 m
+612 0 l
+612 792 l
+0 792 l
+h
+f
+BT
+/F0 1 Tf
+0 g
+19.926 0 0 19.926 0 0 Tm
+2.9213 35.954 Td
+[(A)-350(Re)24(vie)25(w)-350(of)-350(F)14(ormal)-350(Program)-350(V)110(eri\002cation)-350(T)79(ools)-350(Based)-350(on)-350(the)]TJ
+9.1879 -1.2 Td
+[(Boogie)-350(Language)]TJ
+/F0 1 Tf
+10.96 0 0 10.96 0 0 Tm
+14.512 60.326 Td
+[(Inaam)-350(Ahmed,)-350(Theodore)-350(S.)-350(Norv)14(ell,)-350(and)-350(Ramachandran)-350(V)111(enkatesan)]TJ
+/F1 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+22.41 65.106 Td
+[(Dept.)-350(Electrical)-350(and)-350(Computer)-350(Engineering)]TJ
+-0.067513 -1.2375 Td
+[(F)75(aculty)-350(of)-350(Engineering)-350(and)-350(Applied)-350(Science)]TJ
+-1.475 -1.2375 Td
+[(Memorial)-350(Univer)10(sity)-350(of)-350(Ne)14(wfoundland)-350(&)-350(Labr)14(ador)]TJ
+/F2 1 Tf
+-1.4666 -1.2375 Td
+[(inaama@mun.ca,)-600(theo@mun.ca,)-599(venky@mun.ca)]TJ
+/F3 1 Tf
+8.9669 0 0 8.9669 0 0 Tm
+7.3338 63.625 Td
+[(Abstract)]TJ
+/F4 1 Tf
+3.4479 0 Td
+[(\227)-166(Err)17(ors)-685(in)-685(the)-685(softwar)17(e)-685(ar)17(e)-685(hazardous.)-685(T)91(esting)]TJ
+-4.559 -1.1111 Td
+[(softwar)17(e,)-345(bef)25(or)17(e)-345(its)-345(deployment,)-345(may)-345(catch)-345(some)-345(err)17(ors)-345(pr)17(esent)]TJ
+0 -1.1111 Td
+[(in)-650(the)-650(softwar)17(e.)-650(Ho)9(we)14(v)9(er)91(,)-650(testing)-650(does)-650(not)-650(guarantee)-650(their)]TJ
+0 -1.1111 Td
+[(absence.)-461(Se)14(v)9(eral)-461(f)25(ormal)-461(v)10(eri\002cation)-461(tools)-461(ha)24(v)9(e)-461(been)-461(b)19(uilt)-461(and)]TJ
+0 -1.1111 Td
+[(used)-278(f)24(or)-278(f)25(ormal)-278(v)10(eri\002cation)-278(to)-278(ensur)17(e)-278(the)-278(corr)17(ectness)-278(of)-278(softwar)17(e)]TJ
+0 -1.1111 Td
+[(in)-396(differ)17(ent)-396(pr)17(ogramming)-396(languages.)-396(The)-396(Boogie)-396(language)-396(is)-396(a)]TJ
+0 -1.1111 Td
+[(common)-530(intermediate)-530(r)17(epr)17(esentation)-530(f)25(or)-530(static)-530(v)10(eri\002cation)-530(of)]TJ
+0 -1.1111 Td
+[(pr)17(ograms)-342(written)-342(in)-342(se)14(v)9(eral)-342(high-le)14(v)10(el)-342(pr)17(ogramming)-342(languages.)]TJ
+0 -1.1111 Td
+[(In)-460(this)-460(paper)91(,)-460(notable)-460(softwar)17(e)-460(v)9(eri\002ers)-460(such)-460(as)-460(Dafny)54(,)-460(VCC,)]TJ
+0 -1.1111 Td
+[(HA)144(V)44(OC,)-530(V)100(er)10(v)9(e,)-530(and)-530(Chalice)-530(ar)17(e)-530(described)-530(and)-530(analyzed)-530(f)24(or)]TJ
+0 -1.1111 Td
+[(similarities)-375(and)-374(dissimilarities)-375(with)-375(the)-375(HARPO)-374(v)9(eri\002er)100(.)]TJ
+/F3 1 Tf
+1.1111 -2.2306 Td
+[(Index)-343(T)91(erms)]TJ
+/F4 1 Tf
+5.2516 0 Td
+[(\227)-166(A)50(utomated)-343(V)99(eri\002cation,)-343(HARPO)-343(V)100(eri\002er)91(,)-343(F)25(or)37(-)]TJ
+-6.3627 -1.1111 Td
+[(mal)-375(V)100(eri\002cation)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+14.147 42.038 Td
+[(I)-50(.)-549(I)]TJ
+/F0 1 Tf
+7.9705 0 0 7.9705 0 0 Tm
+19.641 52.548 Td
+[(N)-61(T)-61(R)-21(O)-61(D)-61(U)-61(C)-61(T)-61(I)-61(O)-61(N)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+6.6004 40.477 Td
+[(Softw)9(are)-496(f)9(ailure)-496(is)-496(f)9(atal.)-496(It)-496(costs)-496(mone)14(y)-496(and)-496(sometimes)]TJ
+-1 -1.2 Td
+[(li)25(v)14(es.)-371(The)-371(pre)24(v)25(alent)-371(softw)10(are)-371(design)-371(approaches)-371(are)-371(not)-371(ma-)]TJ
+0 -1.2 Td
+[(ture)-419(enough)-419(to)-419(pro)14(v)14(e)-419(the)-419(correctness)-419(of)-419(softw)10(are)-419(using)-419(rig-)]TJ
+0 -1.2 Td
+[(orous)-343(testing.)-343(Ev)14(en)-343(with)-343(rigorous)-343(testing,)-343(there)-343(are)-343(countless)]TJ
+0 -1.2 Td
+[(w)9(ays)-307(for)-307(a)-307(program)-307(to)-307(go)-307(wrong.)-307(While)-307(testing)-307(can)-307(be)-307(useful)]TJ
+0 -1.2 Td
+[(for)-283(\002nding)-283(errors)-283(in)-283(softw)9(are,)-283(it)-283(can)-283(not)-283(be)-283(used)-283(to)-283(sho)25(w)-283(their)]TJ
+0 -1.2 Td
+[(absence)-322([1].)-322(Therefore)-322(v)24(arious)-322(forms)-322(of)-322(analysis)-322(can)-322(be)-322(used)]TJ
+0 -1.2 Td
+[([2].)]TJ
+/F1 1 Tf
+1 -1.2075 Td
+[(Sequential)-606(Pr)44(o)9(gr)14(ams:)]TJ
+/F0 1 Tf
+9.6971 0 Td
+[(Sequential)-606(programs)-606(are)-606(hard)-606(to)]TJ
+-10.697 -1.2 Td
+[(write)-380(correctly)64(.)-380(The)-380(correctness)-380(of)-380(these)-380(programs)-380(primarily)]TJ
+0 -1.2 Td
+[(depends)-289(on)-289(implicit)-289(assumptions.)-289(F)14(or)-289(instance,)-289(a)-289(programmer)]TJ
+0 -1.2 Td
+[(can)-289(easily)-289(assume)-289(that)-289(a)-289(v)24(ariable)-289(lies)-289(inside)-289(the)-289(array)-289(bounds,)]TJ
+0 -1.2 Td
+[(a)-312(function)-312(parameter)-312(is)-312(not)-312(null,)-312(contents)-312(of)-312(speci\002c)-312(memory)]TJ
+0 -1.2 Td
+[(locations)-621(are)-621(not)-621(read)-621(by)-621(a)-621(method,)-621(data)-621(structures)-621(are)]TJ
+0 -1.2 Td
+[(accessed)-355(and)-355(manipulated)-355(with)-355(a)-355(speci\002c)-355(protocol.)-355(Ho)24(w)-355(can)]TJ
+0 -1.2 Td
+[(a)-397(programmer)-397(reason)-397(for)-397(these)-397(assumptions?)-397(It)-397(is)-397(strenuous)]TJ
+0 -1.2 Td
+[(for)-422(them)-422(to)-422(v)14(erify)-422(that)-422(their)-422(assumptions)-422(are)-422(correct.)-422(Thus,)]TJ
+0 -1.2 Td
+[(writing)-350(correct)-350(sequential)-350(programs)-350(is)-350(tough.)]TJ
+/F1 1 Tf
+1 -1.2075 Td
+[(Concurr)37(ent)-742(Pr)44(o)9(gr)14(ams:)]TJ
+/F0 1 Tf
+10.323 0 Td
+[(Concurrent)-742(programs)-742(are)-742(e)25(v)14(en)]TJ
+-11.323 -1.2 Td
+[(harder)-633(to)-633(write.)-633(Data)-633(races,)-633(interference)-633(among)-633(threads,)]TJ
+0 -1.2 Td
+[(deadlocks)-507(and)-507(li)24(v)14(e-locks,)-507(data)-507(hiding)-507(and)-507(abstraction,)-507(and)]TJ
+0 -1.2 Td
+[(modularity)-462(are)-462(some)-462(of)-462(the)-462(challenges)-462(concurrent)-462(program)]TJ
+0 -1.2 Td
+[(writing)-580(incurs.)-580(The)-580(programmer)-580(must)-580(assume)-580(the)-580(ef)24(fects)]TJ
+0 -1.2 Td
+[(of)-464(interference)-464(of)-464(a)-464(thread)-464(with)-464(all)-464(other)-464(threads)-464(currently)]TJ
+0 -1.2 Td
+[(running.)-338(Memory)-338(access)-338(is)-338(another)-338(challenge)-338(for)-338(a)-338(program-)]TJ
+0 -1.2 Td
+[(mer;)-343(while)-343(one)-343(thread)-343(is)-343(accessing)-343(a)-343(memory)-343(location,)-343(other)]TJ
+0 -1.2 Td
+[(threads)-459(must)-459(not)-459(access)-459(the)-459(location)-459(concurrently)64(.)-459(Locking)]TJ
+0 -1.2 Td
+[(mechanism)-511(enforce)-511(assumptions)-511(on)-511(locations)-511(protected)-511(by)]TJ
+0 -1.2 Td
+[(locks)-350(such)-350(as)-350(acquiring)-350(locks)-350(will)-350(not)-350(result)-350(deadlock.)]TJ
+27.703 50.4 Td
+[(The)-562(formal)-562(softw)9(are)-562(v)14(eri\002cation)-562(approach)-562(can)-562(increase)]TJ
+-1 -1.2 Td
+[(the)-608(producti)25(vity)-608(of)-608(a)-608(programmer)-608(and)-608(decrease)-608(the)-608(cost)]TJ
+0 -1.2 Td
+[(of)-447(dependable)-447(softw)9(are)-447(production)-447(by)-447(reducing)-447(the)-447(cost)-447(of)]TJ
+0 -1.2 Td
+[(changing)-541(the)-541(softw)10(are)-541(in)-541(and)-541(after)-541(de)24(v)14(elopment)-541(c)14(ycle.)-541(A)]TJ
+0 -1.2 Td
+[(standard)-413(approach)-413(for)-413(formal)-413(program)-413(v)14(eri\002cation)-413(is)-413(to)-413(use)]TJ
+0 -1.2 Td
+[(the)-350(automated)-350(theorem-pro)14(ving)-350(technique)-350([3].)]TJ
+1 -1.2 Td
+[(De)24(v)14(eloping)-427(a)-427(v)14(eri\002cation)-427(tool)-427(is)-427(a)-427(process)-427(in)39(v)19(olv)14(ed)-427(with)]TJ
+-1 -1.2 Td
+[(comple)14(xity)-390(and)-390(criticality)64(.)-390(It)-390(encompasses)-390(compilation)-390(tech-)]TJ
+0 -1.2 Td
+[(nology)64(,)-487(formal)-487(semantics,)-487(generation)-487(of)-487(v)14(eri\002cation)-487(condi-)]TJ
+0 -1.2 Td
+[(tions,)-349(translating)-349(the)-349(results)-349(into)-349(decisions)-349(and)-349(an)-349(interacti)25(v)14(e)]TJ
+0 -1.2 Td
+[(user)-491(interf)9(ace.)-491(Source)-491(code)-491(together)-491(with)-491(program)-491(speci\002-)]TJ
+0 -1.2 Td
+[(cations)-390(in)-390(a)-390(higher)-390(programming)-390(language)-390(is)-390(translated)-390(into)]TJ
+0 -1.2 Td
+[(VCs.)-567(Ho)24(we)25(v)14(er)39(,)-567(generating)-567(VCs)-567(for)-567(theorem)-567(pro)14(v)14(ers)-567(is)-567(a)]TJ
+0 -1.2 Td
+[(complicated)-574(task.)-574(A)-574(common)-574(approach)-574(to)-574(deal)-574(with)-574(this)]TJ
+0 -1.2 Td
+[(comple)14(xity)-470(is)-470(to)-470(use)-470(an)-470(intermediate)-470(v)14(eri\002cation)-470(language.)]TJ
+0 -1.2 Td
+[(The)-565(v)14(eri\002cation)-565(process)-565(into)-565(tw)9(o)-565(main)-565(steps:)-565(T)34(ranslating)]TJ
+0 -1.2 Td
+[(the)-467(program)-467(speci\002cations)-467(into)-467(an)-467(intermediate)-467(v)14(eri\002cation)]TJ
+0 -1.2 Td
+[(language)-277(\(IVL\))-277(Boogie.)-277(Later)39(,)-277(the)-277(Boogie)-277(source)-277(is)-277(con)39(v)14(erted)]TJ
+0 -1.2 Td
+[(into)-375(VCs)-375(and)-375(check)9(ed)-375(by)-375(the)-375(Boogie)-375(v)14(eri\002er)-375(to)-375(generate)-375(an)]TJ
+0 -1.2 Td
+[(error)-350(report.)]TJ
+1 -1.2 Td
+[(Dafn)14(y)64(,)-507(VCC,)-507(Chalice,)-507(V)110(erv)14(e,)-507(and)-507(HA)134(V)39(OC)-507(are)-507(some)-507(of)]TJ
+-1 -1.2 Td
+[(the)-510(tools)-510(that)-510(use)-510(Boogie)-510(and)-510(an)-510(intermediate)-510(v)14(eri\002cation)]TJ
+0 -1.2 Td
+[(language)-350([3].)]TJ
+1 -1.2 Td
+[(In)-355(this)-355(paper)39(,)-355(an)-355(e)24(v)14(entful)-355(back)9(end)-355(of)-355(a)-355(formal)-355(v)14(eri\002cation)]TJ
+-1 -1.2 Td
+[(system)-635(called)-635(Boogie)-635(Intermediate)-635(V)110(eri\002cation)-635(Language)]TJ
+0 -1.2 Td
+[(is)-496(discussed,)-496(and)-496(number)-496(of)-496(ef)24(\002cacious)-496(v)14(eri\002ers)-496(based)-496(on)]TJ
+0 -1.2 Td
+[(Boogie)-332(back)9(end)-332(are)-332(reported)-332(as)-332(follo)24(ws:)-332(Section)-332(II)-332(describes)]TJ
+0 -1.2 Td
+[(the)-297(Hoare-style)-297(automated)-297(v)14(eri\002er)-297(named)-297(Boogie)-297(and)-297(Boogie)]TJ
+0 -1.2 Td
+[(V)111(eri\002cation)-481(Language.)-481(Later)-481(sections)-481(describe)-481(the)-481(v)14(eri\002ers)]TJ
+0 -1.2 Td
+[(based)-640(on)-640(Boogie.)-640(Section)-640(III)-640(pro)14(vides)-640(details)-640(of)-640(Dafn)14(y)]TJ
+0 -1.2 Td
+[(v)14(eri\002er;)-283(Section)-283(IV)-283(describes)-283(the)-283(concurrent)-283(C)-283(v)14(eri\002er)-283(named)]TJ
+0 -1.2 Td
+[(VCC;)-548(Section)-548(V)-548(describes)-548(a)-548(v)14(eri\002er)-548(named)-548(Chalice,)-548(and)]TJ
+0 -1.2 Td
+[(idea)-273(of)-273(permissions)-273(transfer)-273(approach)-273(for)-273(v)14(eri\002cation;)-273(Section)]TJ
+0 -1.2 Td
+[(VI)-491(describes)-491(a)-491(distinct)-491(v)14(eri\002er)-491(tar)17(geting)-491(only)-491(system)-491(soft-)]TJ
+0 -1.2 Td
+[(w)9(are)-325(v)14(eri\002cation)-325(system)-325(named)-325(V)110(erv)14(e;)-325(Section)-325(VII)-325(describes)]TJ
+0 -1.2 Td
+[(HA)135(V)39(OC,)-358(a)-358(scalable)-358(v)14(eri\002er)-358(for)-358(heap)-358(data)-358(structures.)-358(Section)]TJ
+0 -1.2 Td
+[(VIII)-321(describes)-321(Spec#)-321(v)14(eri\002er;)-321(Section)-321(IX)-321(describe)-321(AutoProof)]TJ
+0 -1.2 Td
+[(approach)-616(Eif)24(fel)-616(using)-616(AutoProof;)-616(Section)-616(X)-616(describe)-616(an)]TJ
+0 -1.2 Td
+[(Extended)-422(Static)-422(V)111(eri\002er)-422(which)-422(used)-422(same)-422(staging)-422(approach)]TJ
+0 -1.2 Td
+[(for)-318(v)14(eri\002cation)-318(conditions)-318(generation)-318(lik)9(e)-318(rest)-318(of)-318(the)-318(v)14(eri\002ers)]TJ
+0 -1.2 Td
+[(in)-349(this)-349(paper)-349(used;)-349(Section)-349(XI)-349(describes)-349(our)-349(o)25(wn)-349(v)14(eri\002er)-349(for)]TJ
+0 -1.2 Td
+[(HARPO)-255(language)-255(named)-255(HARPO)-255(V)111(eri\002er)-255(with)-255(description)-255(of)]TJ
+0 -1.2 Td
+[(its)-350(design)-350(and)-350(e)25(v)24(aluation.)-350(Section)-350(XII)-350(presents)-350(Conclusion.)]TJ
+ET
+
+endstream
+endobj
+11 0 obj
+<</ca 1/CA 1>>
+endobj
+10 0 obj
+<<
+/Font 19 0 R
+/ExtGState <<
+/Gs11 11 0 R
+>>
+>>
+endobj
+19 0 obj
+<<
+/F4 17 0 R
+/F3 16 0 R
+/F2 15 0 R
+/F1 14 0 R
+/F0 13 0 R
+>>
+endobj
+21 0 obj
+<< /Type /Encoding
+/Differences [ 0/Gamma/Delta/Theta/Lambda/Xi/Pi/Sigma/Upsilon
+/Phi/Psi/Omega/alpha/beta/gamma/delta/epsilon1/zeta/eta/theta
+/iota/kappa/lambda/mu/nu/xi/pi/rho/sigma/tau/upsilon/phi/chi
+/psi/omega/epsilon/theta1/pi1/rho1/sigma1/phi1/arrowlefttophalf
+/arrowleftbothalf/arrowrighttophalf/arrowrightbothalf/arrowhookleft
+/arrowhookright/triangleright/triangleleft/zerooldstyle/oneoldstyle
+/twooldstyle/threeoldstyle/fouroldstyle/fiveoldstyle/sixoldstyle
+/sevenoldstyle/eightoldstyle/nineoldstyle/period/comma/less/slash
+/greater/star/partialdiff/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R
+/S/T/U/V/W/X/Y/Z/flat/natural/sharp/slurbelow/slurabove/lscript
+/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/dotlessi
+/dotlessj/weierstrass/vector/tie/psi 160/space/Gamma/Delta/Theta
+/Lambda/Xi/Pi/Sigma/Upsilon/Phi/Psi 173/Omega/alpha/beta/gamma
+/delta/epsilon1/zeta/eta/theta/iota/kappa/lambda/mu/nu/xi/pi
+/rho/sigma/tau/upsilon/phi/chi/psi/tie] >>
+endobj
+23 0 obj
+<<
+/Length 13668
+>>
+stream
+1 g
+0 0 m
+612 0 l
+612 792 l
+0 792 l
+h
+f
+BT
+/F0 1 Tf
+0 g
+9.9632 0 0 9.9632 0 0 Tm
+15.565 72.872 Td
+[(I)-50(I)-50(.)-549(B)]TJ
+/F0 1 Tf
+7.9705 0 0 7.9705 0 0 Tm
+22.31 91.092 Td
+[(O)-61(O)-61(G)-61(I)-61(E)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+6.6004 71.244 Td
+[(Boogie)-603(w)9(as)-603(de)25(v)14(eloped)-603(by)-603(Hoare-Logic)-603(based)-603(program)]TJ
+-1 -1.2 Td
+[(v)14(eri\002er[3].)-493(Boogie)-493(language)-493(is)-493(an)-493(intermediate)-493(v)14(eri\002cation)]TJ
+0 -1.2 Td
+[(language)-462(used)-462(as)-462(a)-462(common)-462(intermediate)-462(representation)-462(in)]TJ
+0 -1.2 Td
+[(the)-296(v)14(eri\002cation)-296(of)-296(other)-296(higher)19(-le)25(v)14(el)-296(programming)-296(languages.)]TJ
+0 -1.2 Td
+[(Boogie)-451(can)-451(also)-451(be)-451(used)-451(as)-451(an)-451(input/output)-451(format)-451(for)-451(the)]TJ
+0 -1.2 Td
+[(abstract)-460(representation)-460(and)-460(predicate)-460(abstraction.)-460(Internally)64(,)]TJ
+0 -1.2 Td
+[(Boogie)-432(performs)-432(a)-432(series)-432(of)-432(transformations)-432(of)-432(source)-432(pro-)]TJ
+0 -1.2 Td
+[(gram)-582(into)-582(v)14(eri\002cation)-582(conditions)-582(to)-582(error)-582(report.)-582(Boogie,)]TJ
+0 -1.2 Td
+[(pre)24(viously)-441(kno)25(wn)-441(as)-441(BoogiePL,)-441(as)-441(a)-441(language)-441(has)-441(impera-)]TJ
+0 -1.2 Td
+[(ti)25(v)14(e)-391(and)-391(mathematical)-391(components.)-391(A)-391(challenge)-391(is)-391(to)-391(create)]TJ
+0 -1.2 Td
+[(v)14(eri\002cation)-345(conditions)-345(Boogie)-345(v)14(eri\002er)-345(uses)-345(SMT)-345(solv)14(ers)-345([4],)]TJ
+0 -1.2 Td
+[(such)-316(as)]TJ
+/F1 1 Tf
+3.2986 0 Td
+[(Z3)]TJ
+/F0 1 Tf
+6.9743 0 0 6.9743 0 0 Tm
+14.221 83.439 Td
+[(1)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+10.355 58.044 Td
+[(,)-316(to)-316(determine)-316(the)-316(truth)-316(of)-316(v)14(eri\002cation)-316(conditions.)]TJ
+5.1888 -2.0353 Td
+[(I)-50(I)-50(I)-50(.)-549(D)]TJ
+/F0 1 Tf
+7.9705 0 0 7.9705 0 0 Tm
+22.786 70.012 Td
+[(A)-61(F)-61(N)-61(Y)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+6.6004 54.381 Td
+[(The)-535(Dafn)14(y)-535(programming)-535(language)-535(is)-535(designed)-535(to)-535(write)]TJ
+-1 -1.2 Td
+[(programs)-234(using)-234(b)19(uilt-in)-234(speci\002cation)-234(constructs.)-234(Dafn)14(y')54(s)-234(treat-)]TJ
+0 -1.2 Td
+[(ment)-334(of)-334(locations)-334(is)-334(based)-334(on)-334(dynamic)-334(frame)-334(theory)-334([5],)-334([6].)]TJ
+0 -1.2 Td
+[(Its)-352(compiler)-352(can)-352(produce)-352(e)14(x)14(ecutables)-352(for)-352(the)-352(.NET)-352(platform.)]TJ
+0 -1.2 Td
+[(Dafn)14(y)-364(attempts)-364(to)-364(determine)-364(the)-364(correctness)-364(of)-364(programs)-364(by)]TJ
+0 -1.2 Td
+[(checking)-387(the)-387(parts)-387(of)-387(the)-387(program)-387(for)-387(their)-387(o)24(wn)-387(correctness)]TJ
+0 -1.2 Td
+[(and)-328(then)-328(infer)-328(the)-328(correctness)-328(of)-328(complete)-328(program)-328(based)-328(on)]TJ
+0 -1.2 Td
+[(smaller)-401(parts.)-401(The)-401(use)-401(of)-401(dynamic)-401(frames)-401(enables)-401(Dafn)14(y)-401(to)]TJ
+0 -1.2 Td
+[(pro)14(v)14(e)-350(the)-350(correctness)-350(when)-350(data-abstraction)-350(is)-350(used)-350([8].)]TJ
+1 -1.2189 Td
+[(The)-427(Dafn)14(y)-427(programming)-427(language)-427(consists)-427(of)-427(imperati)24(v)14(e)]TJ
+-1 -1.2 Td
+[(and)-247(sequential)-247(constructs,)-247(generic)-247(classes,)-247(dynamic)-247(allocation,)]TJ
+0 -1.2 Td
+[(and)-355(speci\002cation)-355(constructs.)-355(Dafn)14(y's)-355(speci\002cation)-355(constructs)]TJ
+0 -1.2 Td
+[(are)-533(pre-condition,)-533(post-condition,)-533(read)-533(set,)-533(write)-533(set,)-533(loop)]TJ
+0 -1.2 Td
+[(in)39(v)25(ariants)-383(and)-383(loop)-383(termination)-383(metrics.)-383(T)79(ypes)-383(include)-383(alge-)]TJ
+0 -1.2 Td
+[(braic,)-259(sets,)-259(and)-259(sequences.)-259(Ghost)-259(constructs)-259(and)-259(speci\002cations)]TJ
+0 -1.2 Td
+[(and)-240(ignored)-240(when)-240(e)14(x)14(ecutable)-240(code)-240(is)-240(being)-240(generated.)-240(Dafn)14(y')54(s)]TJ
+0 -1.2 Td
+[(v)14(eri\002er)-374(generates)-374(the)-374(Boogie)-374(and)-374(the)-374(Boogie)-374(tool)-374(is)-374(used)-374(to)]TJ
+0 -1.2 Td
+[(generate)-350(the)-350(v)14(eri\002cation)-350(conditions)-350(which)]TJ
+/F1 1 Tf
+17.51 0 Td
+[(Z3)]TJ
+/F0 1 Tf
+1.406 0 Td
+[(checks.[7])]TJ
+-17.916 -1.2189 Td
+[(The)-466(program)-466(v)14(eri\002cation)-466(process)-466(of)-466(Dafn)14(y)-466(is)-466(lik)9(e)-466(man)14(y)]TJ
+-1 -1.2 Td
+[(automatic)-252(v)14(eri\002ers)-252(using)-252(Boogie)-252(as)-252(their)-252(back)-252(end.)-252(A)-252(program)]TJ
+0 -1.2 Td
+[(written)-558(in)-558(Dafn)14(y)-558(is)-558(translated)-558(into)-558(Boogie)-558(and)-558(such)-558(that)]TJ
+0 -1.2 Td
+[(the)-588(correctness)-588(of)-588(the)-588(Boogie)-588(representation)-588(implies)-588(that)]TJ
+0 -1.2 Td
+[(the)-544(Dafn)14(y)-544(programs)-544(are)-544(correct)-544([14].)-544(F)14(ailures)-544(of)-544(VCs)-544(to)]TJ
+0 -1.2 Td
+[(v)14(erify)-548(are)-548(passed)-548(back)-548(to)-548(Dafn)14(y)-548(and)-548(processed)-548(to)-548(report)]TJ
+0 -1.2 Td
+[(meaningful)-301(errors)-301(and)-301(w)9(arnings)-301(in)-301(Dafn)14(y)-301(source)-301(code.)-301(Dafn)14(y)]TJ
+0 -1.2 Td
+[(w)9(as)-522(designed)-522(with)-522(v)14(eri\002cation)-522(in)-522(mind.)-522(And)-522(due)-522(to)-522(that,)]TJ
+0 -1.2 Td
+[(programs)-239(in)-239(Dafn)14(y)-239(are)-239(cleaner)-239(than)-239(programs)-239(in)-239(other)-239(v)14(eri\002ers)]TJ
+0 -1.2 Td
+[(such)-396(as)-396(VCC.)-396(Dafn)14(y)-396(is)-396(no)25(w)-396(a)-396(common)-396(choice)-396(for)-396(teaching)]TJ
+0 -1.2 Td
+[(and)-350(learning)-350(automated)-350(program)-350(v)14(eri\002cation.)]TJ
+10.457 -2.0353 Td
+[(I)-50(V)78(.)-549(V)-50(C)-49(C)]TJ
+-9.4573 -1.6282 Td
+[(VCC)-390(\(V)110(eri\002er)-390(for)-390(Concurrent)-390(C\))-390(is)-390(layered)-390(on)-390(top)-390(of)-390(the)]TJ
+-1 -1.2 Td
+[(C)-491(language)-491(for)-491(v)14(eri\002cation)-491(purposes.)-491(VCC)-491(w)9(as)-491(de)25(v)14(eloped)]TJ
+0 -1.2 Td
+[(in)-469(Microsoft)-469(Hypervisor)-469(V)111(eri\002cation)-469(Project)-469(\(MHVP\).)-469(The)]TJ
+0 -1.2 Td
+[(project)-554(w)9(as)-554(intended)-554(to)-554(pro)14(vide)-554(v)14(eri\002cation)-554(of)-554(functional)]TJ
+0 -1.2 Td
+[(correctness)-512(properties)-512(of)-512(v)25(arious)-512(softw)10(are)-512(types,)-512(including)]TJ
+0 -1.2 Td
+[(commercial,)-310(system)-310(softw)9(are,)-310(of)24(f-the-shelf)-310(softw)9(are,)-310(and)-310(Mi-)]TJ
+0 -1.2 Td
+[(crosoft)-350(Hyper)19(-V)128(.)-350([8])]TJ
+/F0 1 Tf
+5.9779 0 0 5.9779 0 0 Tm
+10.667 13.408 Td
+[(1)]TJ
+/F0 1 Tf
+7.9706 0 0 7.9706 0 0 Tm
+8.4381 9.703 Td
+[(Z3)-413(us)-413(a)-413(state-of-art)-413(\002rst-order)-413(theorem)-413(pro)14(v)14(er)-413(the)-413(support)-413(Satis\002ability)]TJ
+-1.4375 -1.125 Td
+[(Modulo)-350(Theories)-350(\(SMT\).)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+33.304 72.872 Td
+[(VCC)-400(v)14(eri\002cation)-400(methodology)-400(is)-400(based)-400(on)-400(inline)-400(annota-)]TJ
+-1 -1.2 Td
+[(tions)-463(in)-463(source)-463(code.)-463(Annotations)-463(are)-463(also)-463(called)-463(contracts)]TJ
+0 -1.2 Td
+[(for)-357(v)14(eri\002cation.)-357(These)-357(annotations)-357(are)-357(eliminated)-357(while)-357(gen-)]TJ
+0 -1.2 Td
+[(erating)-502(the)-502(output)-502(of)-502(re)14(gular)-502(C)-502(compilation.)-502(Ho)24(we)25(v)14(er)39(,)-502(for)]TJ
+0 -1.2 Td
+[(v)14(eri\002cation)-462(purposes,)-462(the)-462(output)-462(from)-462(preprocessor)-462(accom-)]TJ
+0 -1.2 Td
+[(pan)14(ying)-424(annotation)-424(supplied)-424(to)-424(VCC.)-424(VCC)-424(tak)9(es)-424(input)-424(and)]TJ
+0 -1.2 Td
+[(con)39(v)14(erts)-342(annotated)-342(C)-342(program)-342(into)-342(an)-342(internal)-342(representation)]TJ
+0 -1.2 Td
+[(for)-259(type)-259(checking)-259(and)-259(name)-259(resolution.)-259(Later)39(,)-259(the)-259(internal)-259(rep-)]TJ
+0 -1.2 Td
+[(resentation)-338(is)-338(transformed)-338(i.e.)-338(simplifying)-338(the)-338(source,)-338(adding)]TJ
+0 -1.2 Td
+[(proof)-470(oblig)4(ation,)-470(etc.)-470(The)-470(\002nal)-470(output)-470(from)-470(transformation)]TJ
+0 -1.2 Td
+[(generates)-430(Boogie)-430(code.)-430(The)-430(VCC)-430(allo)24(ws)-430(to)-430(add)-430(or)-430(remo)14(v)14(e)]TJ
+0 -1.2 Td
+[(transformations)-562(needed.)-562(The)-562(Boogie)-562(code)-562(generated)-562(from)]TJ
+0 -1.2 Td
+[(transformation)-499(does)-499(not)-499(contain)-499(information)-499(on)-499(imperati)24(v)14(e)]TJ
+0 -1.2 Td
+[(control)-351(\003o)25(w)64(,)-351(procedural)-351(and)-351(functional)-351(abstractions)-351(of)-351(trans-)]TJ
+0 -1.2 Td
+[(formed)-247(code.)-247(It)-247(contains)-247(lar)17(ge)-247(prelude)-247(which)-247(axiomatizes)-247(of)-247(C)]TJ
+0 -1.2 Td
+[(memory)64(,)-300(o)24(wnership)-300(of)-300(objects,)-300(states)-300(of)-300(types,)-300(and)-300(arithmetic)]TJ
+0 -1.2 Td
+[(e)14(xpressions,)-495(this)-495(part)-495(named)-495(prelude.)-495(The)-495(resultant)-495(source)]TJ
+0 -1.2 Td
+[(code)-335(is)-335(gi)25(v)14(en)-335(to)-335(Boogie)-335(program)-335(v)14(eri\002er)39(,)-335(which)-335(con)39(v)14(erts)-335(the)]TJ
+0 -1.2 Td
+[(program)-303(into)-303(set)-303(of)-303(v)14(eri\002cation)-303(conditions.)-303(These)-303(v)14(eri\002cation)]TJ
+0 -1.2 Td
+[(conditions)-388(are)-388(then)-388(passed)-388(to)-388(a)-388(theorem)-388(pro)14(v)14(er)39(,)-388(in)-388(this)-388(case)]TJ
+/F1 1 Tf
+0 -1.2 Td
+[(Z3)]TJ
+/F0 1 Tf
+1.056 0 Td
+[(,)-350(to)-350(be)-350(pro)14(v)14(ed.)]TJ
+8.7229 -1.9956 Td
+[(V)78(.)-549(C)]TJ
+/F0 1 Tf
+7.9705 0 0 7.9705 0 0 Tm
+55.304 58.597 Td
+[(H)-61(A)-61(L)-61(I)-61(C)-61(E)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+33.304 45.277 Td
+[(Chalice)-481(is)-481(an)-481(e)14(xperimental)-481(language)-481(de)25(v)14(eloped)-481(to)-481(allo)24(w)]TJ
+-1 -1.2 Td
+[(the)-509(v)14(eri\002cation)-509(of)-509(concurrent)-509(programs.)-509(Language)-509(support)]TJ
+0 -1.2 Td
+[(v)25(arious)-374(features,)-374(including)-374(dynamic)-374(objects)-374(and)-374(threads)-374(cre-)]TJ
+0 -1.2 Td
+[(ation,)-360(locks,)-360(monitors,)-360(mutual)-360(e)14(xclusion,)-360(pre-conditions,)-360(and)]TJ
+0 -1.2 Td
+[(post-conditions.)-413(The)-413(language)-413(supports)-413(locking)-413(memory)-413(lo-)]TJ
+0 -1.2 Td
+[(cations)-421(at)-421(v)14(ery)-421(lo)25(w-le)24(v)14(el)-421(using)-421(permissions.)-421(Chalice)-421(carries)]TJ
+0 -1.2 Td
+[(permissions)-366(and)-366(transfer)-366(of)-366(permissions)-366(approach)-366(to)-366(address)]TJ
+0 -1.2 Td
+[(the)-624(speci\002cation)-624(for)-624(v)14(eri\002cation)-624(of)-624(concurrent)-624(programs;)]TJ
+0 -1.2 Td
+[(permission)-454(models)-454(also)-454(allo)24(w)-454(Chalice)-454(to)-454(be)-454(used)-454(for)-454(step-)]TJ
+0 -1.2 Td
+[(wise)-571(re\002nement)-571(of)-571(program)-571(speci\002cations.)-571(Re\002nement)-571(of)]TJ
+0 -1.2 Td
+[(pseudo-codes)-279(into)-279(more)-279(concrete)-279(implementation)-279(all)-279(becomes)]TJ
+0 -1.2 Td
+[(source)-404(code)-404(for)-404(Chalice)-404(v)14(eri\002er)-404(to)-404(check)-404(the)-404(correctness)-404(of)]TJ
+0 -1.2 Td
+[(re\002nement)-238(and)-238(speci\002cation.)-238(The)-238(programmer)-238(can)-238(speci\002cally)]TJ
+0 -1.2 Td
+[(con)39(v)14(e)14(y)-279(assumptions)-279(about)-279(the)-279(code)-279(e)14(xplicitly)-279(via)-279(annotations.)]TJ
+0 -1.2 Td
+[([9])]TJ
+1 -1.2142 Td
+[(The)-504(v)14(eri\002cation)-504(methodology)-504(of)-504(Chalice)-504(centers)-504(around)]TJ
+-1 -1.2 Td
+[(permissions)-338(and)-338(transfer)-338(of)-338(permissions.)-338(Chalice)-338(maintains)-338(a)]TJ
+0 -1.2 Td
+[(record)-324(of)-324(permissions)-324(for)-324(each)-324(memory)-324(location,)-324(and)-324(threads)]TJ
+0 -1.2 Td
+[(can)-250(access)-250(the)-250(memory)-250(location)-250(if)-250(the)14(y)-250(ha)19(v)14(e)-250(suf)24(\002cient)-250(permis-)]TJ
+0 -1.2 Td
+[(sion.)-317(The)-317(framing)-317(problem)-317(is)-317(addressed)-317(with)-317(the)-317(permissions)]TJ
+0 -1.2 Td
+[(transfer)-399(approach.)-399(Threads)-399(must)-399(ha)19(v)14(e)-399(enough)-399(permission)-399(to)]TJ
+0 -1.2 Td
+[(access)-341(a)-341(location.)-341(F)14(or)-341(instance)-341(in)-341(a)-341(thread,)-341(if)-341(caller)-341(demands)]TJ
+0 -1.2 Td
+[(callee)-362(to)-362(update)-362(location)-362(it)-362(has)-362(access)-362(on,)-362(the)-362(callee)-362(can)-362(not)]TJ
+0 -1.2 Td
+[(do)-334(unless)-334(it)-334(acquires)-334(the)-334(permission)-334(of)-334(that)-334(memory)-334(location)]TJ
+0 -1.2 Td
+[(from)-366(the)-366(same)-366(thread)-366(or)-366(thread)-366(must)-366(ha)19(v)14(e)-366(suf)24(\002cient)-366(permis-)]TJ
+0 -1.2 Td
+[(sion)-321(to)-321(in)-321(order)-321(to)-321(call)-321(the)-321(callee.)-321(Permission)-321(is)-321(calculated)-321(as)]TJ
+0 -1.2 Td
+[(percentages;)-446(full)-446(permission)-446(is)-446(100%)-446(corresponds)-446(to)-446(write-)]TJ
+0 -1.2 Td
+[(permission)-476(whereas)-476(read-permission)-476(is)-476(an)14(y)-476(percentage)-476(less)]TJ
+0 -1.2 Td
+[(than)-419(or)-419(equal)-419(to)-419(100%)-419(and)-419(higher)-419(than)-419(0%.)-419(The)-419(`)]TJ
+/F5 1 Tf
+21.222 0 Td
+[(\017)]TJ
+/F0 1 Tf
+0.4059 0 Td
+[(')-419(is)-419(an)14(y)]TJ
+-21.628 -1.2 Td
+[(positi)25(v)14(e)-471(fractional)-471(v)25(alue)-471(between)-471(0%)-471(and)-471(100%)-471(represents)]TJ
+0 -1.2 Td
+[(the)-313(permission)-313(v)24(alue)-313([10].)-313(Chalice)-313(programs)-313(are)-313(translated)-313(to)]TJ
+0 -1.2 Td
+[(Boogie)-408(and)-408(v)14(eri\002cation)-408(conditions)-408(are)-408(generated)-408(by)-408(Boogie)]TJ
+0 -1.2 Td
+[(v)14(eri\002er)-350(to)-350(be)-350(check)9(ed)-350(with)]TJ
+/F1 1 Tf
+11.389 0 Td
+[(Z3)]TJ
+/F0 1 Tf
+1.406 0 Td
+[(for)-350(their)-350(correctness.)]TJ
+ET
+
+endstream
+endobj
+20 0 obj
+<<
+/Font 24 0 R
+>>
+endobj
+24 0 obj
+<<
+/F5 22 0 R
+/F1 14 0 R
+/F0 13 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 13582
+>>
+stream
+1 g
+0 0 m
+612 0 l
+612 792 l
+0 792 l
+h
+f
+BT
+/F0 1 Tf
+0 g
+9.9632 0 0 9.9632 0 0 Tm
+15.599 72.872 Td
+[(V)-50(I)-50(.)-549(V)]TJ
+/F0 1 Tf
+7.9705 0 0 7.9705 0 0 Tm
+22.908 91.092 Td
+[(E)-61(R)18(V)-61(E)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+6.6004 70.734 Td
+[(High-le)25(v)14(el)-252(computer)-252(applications)-252(are)-252(created)-252(on)-252(top)-252(of)-252(lo)25(w-)]TJ
+-1 -1.2 Td
+[(le)25(v)14(el,)-377(such)-377(as)-377(operating)-377(systems)-377(and)-377(run-time)-377(language)-377(sys-)]TJ
+0 -1.2 Td
+[(tems.)-266(The)-266(security)-266(and)-266(reliability)-266(of)-266(such)-266(lo)25(wer)19(-le)24(v)14(el)-266(softw)10(are)]TJ
+0 -1.2 Td
+[(and)-431(system)-431(are)-431(critical.)-431(Errors)-431(can)-431(lead)-431(to)-431(system)-431(softw)9(are)]TJ
+0 -1.2 Td
+[(crashes,)-459(data)-459(loss,)-459(and)-459(insecure)-459(hardw)9(are)-459(control.)-459(V)111(erv)14(e)-459(is)]TJ
+0 -1.2 Td
+[(another)-316(formal)-316(v)14(eri\002cation)-316(system)-316(that)-316(uses)-316(T)79(yped)-316(Assembly)]TJ
+0 -1.2 Td
+[(Language)-443(\(T)92(AL\))-443(with)-443(Hoare)-443(Logic)-443(to)-443(accomplish)-443(a)-443(highly)]TJ
+0 -1.2 Td
+[(automated)-430(v)14(eri\002cation.)-430(V)111(erv)14(e)-430(primarily)-430(v)14(eri\002es)-430(the)-430(absence)]TJ
+0 -1.2 Td
+[(of)-324(man)14(y)-324(cate)14(gories)-324(of)-324(errors)-324(in)-324(lo)24(w-le)25(v)14(el)-324(code.)-324(The)-324(safety)-324(of)]TJ
+0 -1.2 Td
+[(assembly)-425(language)-425(instructions,)-425(run-time)-425(system,)-425(and)-425(e)24(v)14(ery)]TJ
+0 -1.2 Td
+[(component)-309(of)-309(OS)-309(e)14(xcept)-309(boot)-309(loader)-309(can)-309(be)-309(v)14(eri\002ed)-309(with)-309(the)]TJ
+0 -1.2 Td
+[(V)111(erv)14(e.)-269(T)79(ype)-269(and)-269(memory)-269(safety)-269(are)-269(v)14(eri\002ed)-269(with)-269(V)111(erv)14(e,)-269(it)-269(has)]TJ
+/F1 1 Tf
+0 -1.2 Td
+[(\223Nucleus\224)]TJ
+/F0 1 Tf
+4.7736 0 Td
+[(which)-439(has)-439(access)-439(to)-439(hardw)10(are)-439(components)-439(such)]TJ
+-4.7736 -1.2 Td
+[(as)-506(memory)64(.)-506(The)]TJ
+/F1 1 Tf
+7.4256 0 Td
+[(\223Nucleus\224)]TJ
+/F0 1 Tf
+4.8404 0 Td
+[(is)-506(implementation)-506(of)-506(memory)]TJ
+-12.266 -1.2 Td
+[(allocation,)-414(g)4(arbage)-414(collection,)-414(interrupts)-414(and)-414(their)-414(handling,)]TJ
+0 -1.2 Td
+[(de)24(vices)-468(access)-468(control,)-468(and)-468(stacks.)-468(The)-468(k)9(ernel)-468(of)-468(OS)-468(later)]TJ
+0 -1.2 Td
+[(b)19(uilds)-445(abo)14(v)14(e)-445(the)-445(\223Nucleus\224)-445(and)-445(applications)-445(run)-445(on)-445(top)-445(of)]TJ
+0 -1.2 Td
+[(k)9(ernel.)-350([11])]TJ
+1 -1.3039 Td
+[(The)-430(v)14(eri\002cation)-430(methodology)-430(of)-430(V)111(erv)14(e)-430(is)-430(breaking)-430(do)25(wn)]TJ
+-1 -1.2 Td
+[(the)-487(underlying)-487(system)-487(softw)10(are)-487(and)-487(the)-487(run-time)-487(language)]TJ
+0 -1.2 Td
+[(system)-300(into)-300(tw)9(o)-300(layers.)-300(The)-300(k)10(ernel)-300(application)-300(is)-300(written)-300(in)-300(C)]TJ
+0 -1.2 Td
+[(and)-351(compiled)-351(to)-351(T)92(AL)-351(and)-351(check)10(ed)-351(with)-351(an)-351(already)-351(a)19(v)24(ailable)]TJ
+0 -1.2 Td
+[(T)92(AL)-486(check)9(er)-487([12].)-487(Nucleus)-486(mentioned)-487(abo)14(v)14(e)-487(is)-487(written)-487(in)]TJ
+0 -1.2 Td
+[(assembly)-324(language,)-324(directly)-324(incorporating)-324(annotations.)-324(These)]TJ
+0 -1.2 Td
+[(annotations)-417(are)-417(better)-417(kno)25(wn)-417(as)-417(assertions)-417(such)-417(as)-417(loop)-417(in-)]TJ
+0 -1.2 Td
+[(v)24(ariants,)-232(pre-)-232(conditions,)-232(and)-232(post-conditions.)-232(These)-232(speci\002ca-)]TJ
+0 -1.2 Td
+[(tions)-268(in)-268(assembly)-268(language)-268(are)-268(translated)-268(into)-268(Boogie.)-268(Boogie)]TJ
+0 -1.2 Td
+[(v)14(eri\002er)-287(relies)-287(on)-287(Z3)-287(that)-287(v)14(eri\002es)-287(the)-287(conditions)-287(automatically)64(.)]TJ
+0 -1.2 Td
+[(In)-385(f)9(act,)-385(one)-385(e)14(x)14(ecutable)-385(statement)-385(is)-385(translated)-385(into)-385(2-3)-385(lines)]TJ
+0 -1.2 Td
+[(of)-350(proof)-350(annotation.)]TJ
+9.4893 -2.7579 Td
+[(V)-50(I)-50(I)-50(.)-549(H)-50(A)84(V)-10(O)-50(C)]TJ
+-8.4893 -2.1382 Td
+[(HA)134(V)39(OC)-318(\(Heap-A)91(w)9(are)-318(V)111(eri\002er)-318(Of)-318(C\))-318(is)-318(a)-318(static)-318(v)14(eri\002er)-318(for)]TJ
+-1 -1.2 Td
+[(C)-272(similar)-272(to)-272(ESC/Ja)19(v)24(a,)-272(and)-272(Spec#,)-272(static)-272(v)14(eri\002ers)-272(for)-272(Ja)19(v)24(a)-272(and)]TJ
+0 -1.2 Td
+[(C#,)-246(respecti)24(v)14(ely)64(.)-246(HA)134(V)39(OC)-246(is)-246(a)-246(distinguished)-246(v)14(eri\002er)-246(deals)-246(with)]TJ
+0 -1.2 Td
+[(lo)25(wer)19(-le)24(v)14(el)-406(details)-406(of)-406(C)-406(language.)-406(It)-406(pro)14(vides)-406(the)-406(automatic)]TJ
+0 -1.2 Td
+[(update)-321(for)-321(reachability)-321(predicate)-321(which)-321(is)-321(e)14(xplicitly)-321(designed)]TJ
+0 -1.2 Td
+[(to)-290(deal)-290(with)-290(pointers)-290(and)-290(their)-290(arithmetic)-290(operations.)-290(HA)134(V)39(OC)]TJ
+0 -1.2 Td
+[(addresses)-494(on)-494(of)-494(the)-494(sources)-494(of)-494(unscalability)-494(for)-494(automatic)]TJ
+0 -1.2 Td
+[(v)14(eri\002ers)-433(struggling)-433(with)-433(the)-433(imprecision)-433(caused)-433(by)-433(a)-433(heap-)]TJ
+0 -1.2 Td
+[(allocated)-550(data)-550(structures.)-550(There)-550(are)-550(tw)10(o)-550(fundamental)-550(cor)19(-)]TJ
+0 -1.2 Td
+[(rectness)-408(properties,)-408(control)-408(\003o)25(w)64(,)-408(and)-408(memory)-408(safety)64(,)-408(which)]TJ
+0 -1.2 Td
+[(depend)-445(on)-445(the)-445(assertions)-445(pointing)-445(the)-445(contents)-445(of)-445(the)-445(heap)]TJ
+0 -1.2 Td
+[(data)-371(structure.)-371(These)-371(reachability)-371(predicates)-371(are)-371(required)-371(for)]TJ
+0 -1.2 Td
+[(specifying)-350(the)-350(properties)-350(of)-350(heap.)-350([13])]TJ
+1 -1.3039 Td
+[(HA)134(V)39(OC)-441(is)-441(designed)-441(for)-441(v)14(eri\002cation)-441(of)-441(C)-441(programs)-441(with)]TJ
+-1 -1.2 Td
+[(the)-457(speci\002cation)-457(incorporated)-457(as)-457(annotation)-457(language)-457(in)-457(C.)]TJ
+0 -1.2 Td
+[(HA)134(V)39(OC)-312(interpret)-312(the)-312(annotated)-312(program)-312(into)-312(annotated)-312(Boo-)]TJ
+0 -1.2 Td
+[(giePL)]TJ
+/F0 1 Tf
+6.9743 0 0 6.9743 0 0 Tm
+12.06 17.133 Td
+[(2)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+9.2949 11.63 Td
+[(program.)-452(Boogie)-452(v)14(eri\002er)-452(generates)-452(the)-452(v)14(eri\002cation)]TJ
+-3.6945 -1.2 Td
+[(conditions)-389(and)-389(passes)-389(these)-389(on)-389(to)-389(Z3)-389(for)-389(checking)-389(the)-389(truth)]TJ
+0 -1.2 Td
+[(of)-350(the)-350(v)14(eri\002cation)-350(conditions.)]TJ
+/F0 1 Tf
+5.9779 0 0 5.9779 0 0 Tm
+10.667 11.908 Td
+[(2)]TJ
+/F0 1 Tf
+7.9706 0 0 7.9706 0 0 Tm
+8.4381 8.578 Td
+[(BoogiePL)-350(is)-350(pre)24(vious)-350(v)14(ersion)-350(of)-350(the)-350(Boogie.)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+42.031 72.872 Td
+[(V)-50(I)-50(I)-50(I)-50(.)-549(S)]TJ
+/F0 1 Tf
+7.9705 0 0 7.9705 0 0 Tm
+56.698 91.092 Td
+[(P)-61(E)-61(C)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+46.973 72.872 Td
+[(#)]TJ
+-13.669 -1.7282 Td
+[(Spec#)-472(is)-472(an)-472(object-oriented)-472(language)-472(created)-472(by)-472(e)14(xtend-)]TJ
+-1 -1.2 Td
+[(ing)-692(C#)-692(with)-692(speci\002cations)-692(features.)-692(Spec#')54(s)-692(goal)-692(is)-692(to)]TJ
+0 -1.2 Td
+[(pro)14(vide)-581(more)-581(cost-ef)24(fecti)24(v)14(e)-581(w)10(ays)-581(to)-581(produce)-581(high-quality)]TJ
+0 -1.2 Td
+[(softw)9(are.)-485(Notable)-485(annotations)-485(of)-485(Spec#)-485(are)-485(pre-conditions,)]TJ
+0 -1.2 Td
+[(post-conditions,)-350(object)-350(in)39(v)25(ariance,)-350(and)-350(non-null)-350(types.)-350(These)]TJ
+0 -1.2 Td
+[(annotations)-340(allo)25(w)-340(the)-340(programmer)-340(to)-340(write)-340(speci\002cations)-340(e)14(x-)]TJ
+0 -1.2 Td
+[(pressing)-286(the)-286(intention)-286(of)-286(programmer)-286(about)-286(data)-286(and)-286(methods)]TJ
+0 -1.2 Td
+[(being)-577(used.)-577(Spec#)-577(compiler)-577(performs)-577(run-time)-577(checks)-577(to)]TJ
+0 -1.2 Td
+[(assert)-349(the)-350(speci\002cations.)-350([14])]TJ
+1 -1.2355 Td
+[(Spec#)-561(performs)-561(both)-561(static)-561(and)-561(run-time)-561(checking.)-561(All)]TJ
+-1 -1.2 Td
+[(speci\002cation)-259(annotations)-259(are)-259(labeled)-259(to)-259(dif)24(ferentiate)-259(the)-259(Spec#)]TJ
+0 -1.2 Td
+[(annotated)-347(and)-347(unannotated)-347(code.)-347(F)14(or)-347(checking)-347(the)-347(object)-347(in-)]TJ
+0 -1.2 Td
+[(v)25(ariance)-278(each)-278(class)-278(added)-278(with)-278(a)-278(ne)24(w)-278(method)-278(that)-278(declares)-278(an)]TJ
+0 -1.2 Td
+[(in)39(v)25(ariant.)-237(Spec#)-237(underlying)-237(static)-237(checking)-237(is)-237(performed)-237(using)]TJ
+0 -1.2 Td
+[(Boogie.)-370(Boogie)-370(is)-370(responsible)-370(for)-370(checking)-370(speci\002cations)-370(of)]TJ
+0 -1.2 Td
+[(a)-361(non-contract)-361(code,)-361(for)-361(e)14(xample,)-361(it)-361(must)-361(determine)-361(that)-361(the)]TJ
+0 -1.2 Td
+[(non-contract)-481(code)-481(of)-481(a)-481(procedure)-481(meets)-481(its)-481(post-condition.)]TJ
+0 -1.2 Td
+[(BoogiePL)-376(code)-376(is)-376(simple)-376(implementation)-376(of)-376(basic)-376(blocks)-376(of)]TJ
+0 -1.2 Td
+[(statements)-394(from)-394(Spec#)-394(are)-394(assignments,)-394(assume,)-394(assert,)-394(and)]TJ
+0 -1.2 Td
+[(method)-405(call.)-405(These)-405(properties)-405(are)-405(added)-405(to)-405(the)-405(program)-405(for)]TJ
+0 -1.2 Td
+[(making)-450(assertions)-450(and)-450(assumptions)-450(on)-450(program)-450(statements.)]TJ
+0 -1.2 Td
+[(Boogie)-443(program)-443(goes)-443(into)-443(se)25(v)14(eral)-443(translations)-443(and)-443(ends)-443(up)]TJ
+0 -1.2 Td
+[(with)-307(v)14(eri\002cation)-307(conditions.)-307(These)-307(v)14(eri\002cation)-307(conditions)-307(are)]TJ
+0 -1.2 Td
+[(checking)-350(with)-350(a)-350(theorem)-350(pro)14(v)14(er)54(.)]TJ
+7.1724 -2.1771 Td
+[(I)-50(X)-50(.)-549(E)]TJ
+/F0 1 Tf
+7.9705 0 0 7.9705 0 0 Tm
+52.616 51.665 Td
+[(I)-61(FF)-60(E)-61(L)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+44.672 41.331 Td
+[(A)]TJ
+/F0 1 Tf
+7.9705 0 0 7.9705 0 0 Tm
+56.745 51.665 Td
+[(U)-61(T)-44(O)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+47.173 41.331 Td
+[(P)]TJ
+/F0 1 Tf
+7.9705 0 0 7.9705 0 0 Tm
+59.725 51.665 Td
+[(R)-21(O)-61(O)-61(F)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+33.304 39.603 Td
+[(Programmers)-235(not)-235(comfortable)-235(with)-235(formal)-235(v)14(eri\002cation)-235(tech-)]TJ
+-1 -1.2 Td
+[(niques)-455(e)14(xperience)-455(dif)24(\002culty)-455(while)-455(v)14(erifying)-455(the)-455(correctness)]TJ
+0 -1.2 Td
+[(of)-456(programs)-456(formally)64(.)-456(Eif)24(fel)-456(reduces)-456(the)-456(b)19(urden)-456(of)-456(writing)]TJ
+0 -1.2 Td
+[(enormous)-427(annotation)-427(speci\002cations)-427(for)-427(program)-427(using)-427(Auto)]TJ
+0 -1.2 Td
+[(Proof)-628(approach.)-628(AutoProof)-628(is)-628(a)-628(static)-628(v)14(eri\002er)-628(for)-628(Eif)24(fel)]TJ
+0 -1.2 Td
+[(programs)-368(and)-368(part)-368(of)-368(Eif)24(fel)-368(V)111(eri\002cation)-368(En)39(vironment)-368(\(EVE\))]TJ
+0 -1.2 Td
+[(which)-541(encompasses)-541(numerous)-541(v)14(eri\002cation)-541(tool)-541(and)-541(utilize)]TJ
+0 -1.2 Td
+[(their)-350(syner)17(gy)64(.)-350([15])]TJ
+1 -1.2355 Td
+[(Eif)24(fel')54(s)-340(v)14(eri\002cation)-340(with)-340(AutoProof)-340(is)-340(an)-340(automated)-340(trans-)]TJ
+-1 -1.2 Td
+[(lation)-261(of)-261(Ef)24(\002le)-261(program)-261(into)-261(Boogie)-261(program.)-261(Eif)24(fel)-261(programs)]TJ
+0 -1.2 Td
+[(contain)-554(annotated)-554(contracts)-554(such)-554(as)-554(class)-554(in)39(v)25(ariance,)-554(pre-)]TJ
+0 -1.2 Td
+[(conditions)-534(and)-534(post-conditions.)-534(Some)-534(syntactical)-534(adv)24(ances)]TJ
+0 -1.2 Td
+[(in)-614(Eif)24(fel)-614(eliminate)-614(the)-614(need)-614(for)-614(man)14(y)-614(frame)-614(conditions.)]TJ
+0 -1.2 Td
+[(AutoProof)-282(generates)-282(standard)-282(annotations)-282(for)-282(automated)-282(v)14(eri-)]TJ
+0 -1.2 Td
+[(\002cation)-264(to)-264(decrease)-264(the)-264(b)19(urden)-264(on)-264(the)-264(programmer)54(.)-264(AutoProof)]TJ
+0 -1.2 Td
+[(relies)-334(on)-334(Boogie)-334(the)-334(same)-334(w)9(ay)-334(that)-334(Chalice)-334(and)-334(Dafn)14(y)-334(does.)]TJ
+9.5063 -2.1771 Td
+[(X)-49(.)-549(E)-50(S)-50(C)-49(/)-49(J)]TJ
+/F0 1 Tf
+7.9705 0 0 7.9705 0 0 Tm
+57.6 24.239 Td
+[(A)73(V)73(A)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+33.304 17.662 Td
+[(Extended)-486(Static)-486(Check)9(er)-486(for)-486(Ja)19(v)24(a)-486(\(ESC/Ja)19(v)24(a\))-486(is)-486(a)-486(static)]TJ
+-1 -1.2 Td
+[(compile-time)-541(program)-541(check)10(er)-541(that)-541(catches)-541(errors)-541(in)-541(Ja)19(v)24(a)]TJ
+0 -1.2 Td
+[(programs.)-491(ECS)-491(catches)-491(more)-491(errors)-491(than)-491(an)14(y)-491(con)39(v)14(entional)]TJ
+0 -1.2 Td
+[(v)14(eri\002ers)-612(also)-612(a)-612(reason)-612(to)-612(be)-612(named)-612(e)14(xtended.)-612(ESC)-612(can)]TJ
+0 -1.2 Td
+[(preferably)-381(catch)-381(error)-381(issues)-381(lik)9(e)-381(null)-381(dereference,)-381(array)-381(out)]TJ
+0 -1.2 Td
+[(of)-490(bounds,)-490(type)-490(con)39(v)14(ersions.)-490(It)-490(also)-490(pro)14(vides)-490(w)9(arnings)-490(on)]TJ
+0 -1.2 Td
+[(the)-268(synchronization)-268(issues)-268(lik)10(e)-268(race)-268(conditions)-268(and)-268(deadlocks.)]TJ
+0 -1.2 Td
+[(Full)-329(functional)-329(program)-329(v)14(eri\002cation)-329(catches)-329(ideally)-329(all)-329(errors)]TJ
+0 -1.2 Td
+[(and)-380(their)-380(absence)-380(in)-380(a)-380(program)-380(at)-380(e)14(xtreme)-380(cost)-380(whereas)-380(the)]TJ
+0 -1.2 Td
+[(static)-510(checking)-510(is)-510(less)-510(e)14(xpensi)25(v)14(e)-510(b)19(ut)-510(catches)-510(limited)-510(class)]TJ
+ET
+
+endstream
+endobj
+25 0 obj
+<<
+/Font 27 0 R
+>>
+endobj
+27 0 obj
+<<
+/F1 14 0 R
+/F0 13 0 R
+>>
+endobj
+29 0 obj
+<<
+/Length 12993
+>>
+stream
+1 g
+0 0 m
+612 0 l
+612 792 l
+0 792 l
+h
+f
+BT
+/F0 1 Tf
+0 g
+9.9632 0 0 9.9632 0 0 Tm
+5.6004 72.872 Td
+[(of)-538(errors.)-538(ESC)-537(lies)-538(in)-538(between)-538(tw)9(o)-538(e)14(xtremes)-538(of)-538(program)]TJ
+0 -1.2 Td
+[(v)14(eri\002cation)-350(domain.)-350([16])]TJ
+1 -1.2165 Td
+[(ESC)-532(is)-532(a)-532(modular)-532(check)10(er)-532(perform)-532(checking)-532(by)-532(v)14(eri\002-)]TJ
+-1 -1.2 Td
+[(cation)-407(condition)-407(generation)-407(and)-407(automatic)-407(theorem)-407(pro)14(ving.)]TJ
+0 -1.2 Td
+[(Each)-567(module)-567(is)-567(subroutine)-567(or)-567(a)-567(pro)14(vided)-567(piece)-567(of)-567(code.)]TJ
+0 -1.2 Td
+[(Annotations)-600(are)-600(used)-600(to)-600(pro)14(vide)-600(the)-600(speci\002cation)-600(of)-600(the)]TJ
+0 -1.2 Td
+[(routine)-263(being)-263(check)9(ed.)-263(ESC)-263(front)-263(end)-263(parses)-263(the)-263(ja)19(v)24(a)-263(program)]TJ
+0 -1.2 Td
+[(with)-341(annotations)-341(and)-341(produces)-341(abstract)-341(syntax)-341(tree)-341(and)-341(type-)]TJ
+0 -1.2 Td
+[(speci\002c)-368(background)-368(predicate)-368(for)-368(each)-368(class.)-368(The)-368(ne)14(xt)-368(stage)]TJ
+0 -1.2 Td
+[(translates)-458(each)-458(routine)-458(into)-458(guarded)-458(command,)-458(where)-458(each)]TJ
+0 -1.2 Td
+[(sub-command)-331(enforces)-331(that)-331(the)-331(parent)-331(command)-331(is)-331(true.)-331(The)]TJ
+0 -1.2 Td
+[(process)-458(of)-458(generating)-458(v)14(eri\002cation)-458(conditions)-458(has)-458(sharpened)]TJ
+0 -1.2 Td
+[(in)-469(ESC.)-469(Guarded)-469(commands)-469(in)-469(intermediate)-469(representation)]TJ
+0 -1.2 Td
+[(are)-315(not)-315(primarily)-315(represented)-315(in)-315(Boogie.)-315(Ho)24(we)25(v)14(er)39(,)-315(the)14(y)-315(plays)]TJ
+0 -1.2 Td
+[(same)-491(role)-491(as)-491(Boogie.)-491(These)-491(commands)-491(are)-491(con)39(v)14(erted)-491(into)]TJ
+0 -1.2 Td
+[(v)14(eri\002cation)-350(conditions)-350(for)-350(checking.)]TJ
+7.5063 -2.0153 Td
+[(X)-50(I)-50(.)-549(H)-50(A)-50(R)-49(P)-50(O)-300(V)]TJ
+/F0 1 Tf
+7.9705 0 0 7.9705 0 0 Tm
+24.654 66.052 Td
+[(E)-61(R)-61(I)-61(FI)-61(E)-61(R)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+6.6004 51.227 Td
+[(HARPO)-561(\(HARdw)9(are)-561(P)14(arallel)-561(Object\))-561(project)-561(started)-561(in)]TJ
+-1 -1.2 Td
+[(2006)-352([17].)-352(The)-352(mission)-352(of)-352(the)-352(HARPO)-352(project)-352(is)-352(to)-352(de)25(v)14(elop)]TJ
+0 -1.2 Td
+[(an)-422(industrially)-422(viable)-422(concurrent)-422(language)-422(that)-422(supports)-422(the)]TJ
+0 -1.2 Td
+[(wide)-534(v)25(ariety)-534(of)-534(recon\002gurable)-534(processor)-534(architectures)-534(and)]TJ
+0 -1.2 Td
+[(GPUs)-307(with)-307(functional)-307(correctness)-307(properties)-307(using)-307(automated)]TJ
+0 -1.2 Td
+[(v)14(eri\002cation)-277([17],)-277([18],)-277([19].)-277(This)-277(section)-277(contains)-277(information)]TJ
+0 -1.2 Td
+[(on)-410(HARPO)-410(V)111(eri\002er')54(s)-410(methodology)-410(and)-410(de)24(v)14(elopment.)-410(Some)]TJ
+0 -1.2 Td
+[(of)-393(the)-393(similar)-393(softw)9(are)-393(v)14(eri\002cation)-393(tools)-393(are)-393(discussed)-393(from)]TJ
+0 -1.2 Td
+[(Section)-384(III)-384(to)-384(X)-384(are)-384(compared)-384(with)-384(HARPO)-384(V)110(eri\002er)-384(in)-384(this)]TJ
+0 -1.2 Td
+[(section.)]TJ
+/F1 1 Tf
+0 -2.0153 Td
+[(A.)-500(HARPO')39(s)-350(V)111(eri\002cation)-350(Methodolo)10(gy)]TJ
+/F0 1 Tf
+1 -1.5728 Td
+[(The)-254(v)14(eri\002cation)-254(methodology)-254(of)-254(the)-254(HARPO)-254(v)14(eri\002er)-254(is)-254(sig-)]TJ
+-1 -1.2 Td
+[(ni\002cantly)-320(related)-320(to)-320(the)-320(pre)24(viously)-320(mentioned)-320(v)14(eri\002ers.)-320(Since)]TJ
+0 -1.2 Td
+[(HARPO)-403(lang)4(auge)-403(is)-403(a)-403(concurrent)-403(language)-403(that)-403(is)-403(based)-403(of)]TJ
+0 -1.2 Td
+[(conditional)-336(critical)-336(sections)-336(and)]TJ
+/F1 1 Tf
+13.291 0 Td
+[(r)36(endezvous)]TJ
+/F0 1 Tf
+4.7989 0 Td
+[(between)-336(threads.)]TJ
+-18.089 -1.2 Td
+[(It)-357(emplo)9(ys)-357(e)14(xplicit)-357(transfer)-357(of)-357(permissions)-357(in)-357(order)-357(to)-357(v)14(erify)]TJ
+0 -1.2 Td
+[(concurrent)-288(programs.)-288(HARPO)-288(V)110(eri\002er)-288(uses)-288(tw)10(o)-288(dif)24(ferent)-288(lay-)]TJ
+0 -1.2 Td
+[(ers)-253(of)-253(operations)-253(while)-253(performing)-253(the)-253(v)14(eri\002cation)-253(of)-253(HARPO)]TJ
+0 -1.2 Td
+[(programs.)-282(Speci\002cations)-282(are)-282(written)-282(in)-282(form)-282(of)-282(annotations)-282(in)]TJ
+0 -1.2 Td
+[(standard)-259(HARPO)-259(syntax.)-259(These)-259(annotations)-259(are)-259(ignored)-259(when)]TJ
+0 -1.2 Td
+[(compiling)-461(to)-461(C,)-461(VHDL,)-461(and)-461(CUD)39(A.)-461(The)-461(HARPO)-461(V)111(eri\002er)]TJ
+0 -1.2 Td
+[(transforms)-309(the)-309(annotated)-309(program)-309(into)-309(v)14(eri\002cation)-309(conditions)]TJ
+0 -1.2 Td
+[(by)-270(translating)-270(the)-270(program)-270(into)-270(Boogie.)-270(Later)39(,)-270(Boogie)-270(V)111(eri\002er)]TJ
+0 -1.2 Td
+[(transform)-336(the)-336(code)-336(into)-336(v)14(eri\002cation)-336(conditions)-336(and)-336(check)-336(for)]TJ
+0 -1.2 Td
+[(their)-350(correctness)-350(using)-350(SMT)-350(solv)14(er)-350(named)]TJ
+/F1 1 Tf
+17.749 0 Td
+[(Z3)]TJ
+/F0 1 Tf
+1.056 0 Td
+[(.)]TJ
+/F1 1 Tf
+-18.805 -2.0153 Td
+[(B.)-500(Annotation)-350(of)-350(Langua)9(g)10(e)]TJ
+/F0 1 Tf
+1 -1.5728 Td
+[(HARPO)-437(language)-437(is)-437(incorporated)-437(with)-437(annotation)-437(for)-437(its)]TJ
+-1 -1.2 Td
+[(v)14(eri\002cation)-309([20].)-309(These)-309(annotations)-309(are)-309(assertions)-309(for)-309(reason-)]TJ
+0 -1.2 Td
+[(ing)-345(the)-345(correctness)-345(of)-345(the)-345(program.)-345(Annotations)-345(contain)-345(pre-)]TJ
+0 -1.2 Td
+[(conditions,)-416(post-conditions,)-416(class)-416(in)39(v)24(ariants,)-416(loop)-416(in)39(v)25(ariants,)]TJ
+0 -1.2 Td
+[(claim)-427(speci\002cations,)-427(assertions,)-427(and)-427(assumptions)-427([21],)-427([22],)]TJ
+0 -1.2 Td
+[([23].)]TJ
+/F1 1 Tf
+0 -2.0153 Td
+[(C.)-500(Design)-350(and)-350(Evaluation)]TJ
+/F0 1 Tf
+1 -1.5728 Td
+[(HARPO)-341(v)14(eri\002er)-341(design)-341(consists)-341(of)-341(a)-341(parser)39(,)-341(check)9(er)39(,)-341(code)]TJ
+-1 -1.2 Td
+[(generator)39(,)-333(error)-333(report)-333(processor)54(.)-333(The)-333(parser)-333(creates)-333(the)-333(AST)]TJ
+26.703 66.01 Td
+[(with)-463(v)25(alid)-463(HARPO)-463(program)-463(syntax.)-463(The)-463(check)9(er)-463(performs)]TJ
+0 -1.2 Td
+[(name)-345(resolution,)-345(type)-345(checking,)-345(and)-345(creation.)-345(The)-345(code)-345(gen-)]TJ
+0 -1.2 Td
+[(erator)-279(tak)10(es)-279(AST)-279(and)-279(generates)-279(the)-279(equi)25(v)24(alent)-279(code)-279(in)-279(Boogie)]TJ
+0 -1.2 Td
+[([7,20].)-296(The)-296(Boogie)-296(v)14(eri\002er)-296(tak)10(es)-296(Boogie)-296(code)-296(and)-296(transforms)]TJ
+0 -1.2 Td
+[(it)-469(into)-469(v)14(eri\002cation)-469(conditions.)-469(The)-469(v)14(eri\002cation)-469(condition)-469(is)]TJ
+0 -1.2 Td
+[(check)10(ed)-364(with)-364(Z3.)-364(Later)39(,)-364(the)-364(v)14(eri\002cation)-364(errors)-364(are)-364(processed)]TJ
+0 -1.2 Td
+[(by)-529(an)-529(error)-529(processor)-529(to)-529(refer)-529(back)-529(the)-529(error)-529(in)-529(HARPO)]TJ
+0 -1.2 Td
+[(source)-305(code.)-305(T)69(esting)-305(the)-305(functionality)-305(of)-305(the)-305(HARPO)-305(V)111(eri\002er)]TJ
+0 -1.2 Td
+[(is)-515(performed)-515(with)-515(unit)-515(tests)-515(\(commands)-515(and)-515(e)14(xpressions\),)]TJ
+0 -1.2 Td
+[(system)-350(testing)-350(is)-350(performed)-350(for)-350(some)-350(e)14(xamples)-350([24].)]TJ
+1 -1.2916 Td
+[(HARPO)-404(v)14(eri\002er)-404(used)-404(Dafn)14(y')54(s)-404(inline)-404(annotations)-404(method-)]TJ
+-1 -1.2 Td
+[(ology)64(.)-384(The)-384(idea)-384(of)-384(permissions)-384(transfer)-384(is)-384(tested)-384(in)-384(Chalice,)]TJ
+0 -1.2 Td
+[(and)-309(HARPO)-309(V)110(eri\002er)-309(is)-309(using)-309(that)-309(idea)-309(of)-309(permission)-309(transfer)]TJ
+0 -1.2 Td
+[(dif)24(ferently)-358(for)-358(v)14(eri\002cation)-358(concurrent)-358(programs.)-358(All)-358(v)14(eri\002ers)]TJ
+0 -1.2 Td
+[(reported)-619(in)-619(this)-619(paper)-619(emplo)9(ye)-619(Boogie)-619(and)-619(Z3)-619(as)-619(their)]TJ
+0 -1.2 Td
+[(underlying)-350(v)14(eri\002cation)-350(methodology)64(.)]TJ
+8.4129 -2.6537 Td
+[(X)-50(I)-50(I)-50(.)-549(C)]TJ
+/F0 1 Tf
+7.9705 0 0 7.9705 0 0 Tm
+54.715 65.16 Td
+[(O)-61(N)-61(C)-61(L)-61(U)-61(S)-61(I)-61(O)-61(N)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+33.304 50.062 Td
+[(In)-616(this)-616(paper)39(,)-616(some)-616(automated)-616(v)14(eri\002ers)-616(designed)-616(with)]TJ
+-1 -1.2 Td
+[(on)-541(staging)-541(approach)-541(for)-541(generating)-541(v)14(eri\002cation)-541(conditions)]TJ
+0 -1.2 Td
+[(are)-422(reported)-422(and)-422(pro)14(vide)-422(a)-422(moti)24(v)25(ation)-422(for)-422(HARPO)-422(V)110(eri\002er)54(.)]TJ
+0 -1.2 Td
+[(Each)-442(v)14(eri\002er)-442(tar)17(gets)-442(dif)24(ferent)-442(areas)-442(of)-442(softw)10(are)-442(v)14(eri\002cation)]TJ
+0 -1.2 Td
+[(problems.)-542(Ho)25(we)24(v)14(er)39(,)-542(all)-542(of)-542(them)-542(use)-542(the)-542(same)-542(underlying)]TJ
+0 -1.2 Td
+[(v)14(eri\002er)-479(for)-479(generating)-479(v)14(eri\002cation)-479(conditions)-479(and)-479(checking)]TJ
+0 -1.2 Td
+[(them)-581(with)-581(SMTs.)-581(Boogie)-581(is)-581(kno)25(wn)-581(and)-581(pro)14(v)14(ed)-581(to)-581(be)-581(a)]TJ
+0 -1.2 Td
+[(bene\002cial)-412(resource)-412(for)-412(v)14(eri\002cation)-412(condition)-412(generation)-412(and)]TJ
+0 -1.2 Td
+[(checking.)-398(Dafn)14(y)-398(uses)-398(dynamic)-398(frame)-398(theory)-398(and)-398(tar)17(gets)-398(the)]TJ
+0 -1.2 Td
+[(v)14(eri\002cation)-338(problems)-338(in)39(v)19(olving)-338(data)-338(abstraction)-338(and)-338(modular)]TJ
+0 -1.2 Td
+[(speci\002cations.)-256(VCC)-255(is)-256(layered)-256(on)-256(top)-256(of)-256(the)-256(C)-255(language)-256(and)-256(is)]TJ
+0 -1.2 Td
+[(used)-286(for)-286(v)14(eri\002cation)-286(of)-286(C)-286(programs)-286(with)-286(inline)-286(annotations)-286(of)]TJ
+0 -1.2 Td
+[(speci\002cations)-371(and)-371(tar)17(gets)-371(the)-371(v)14(eri\002cation)-371(of)-371(commercial)-371(and)]TJ
+0 -1.2 Td
+[(system)-360(softw)10(are.)-360(The)-360(Chalice)-360(w)9(as)-360(an)-360(e)14(xperimental)-360(language)]TJ
+0 -1.2 Td
+[(and)-421(used)-421(the)-421(idea)-421(of)-421(permission)-421(and)-421(transfer)-421(of)-421(permission)]TJ
+0 -1.2 Td
+[(for)-442(v)14(eri\002cation;)-442(Chalice)-442(featured)-442(the)-442(automated)-442(v)14(eri\002cation)]TJ
+0 -1.2 Td
+[(of)-373(concurrent)-373(programs)-373(using)-373(transfer)-373(of)-373(permissions.)-373(V)111(erv)14(e)]TJ
+0 -1.2 Td
+[(is)-478(a)-478(distinguished)-478(v)14(eri\002er)-478(tar)17(geted)-478(with)-478(lo)25(wer)20(-le)25(v)14(el)-478(system)]TJ
+0 -1.2 Td
+[(softw)9(are)-284(v)14(eri\002cation)-284(using)-284(tw)9(o)-284(layers)-284(approach,)-284(Nucleus,)-284(and)]TJ
+0 -1.2 Td
+[(k)10(ernel.)-290(V)111(eri\002cation)-290(of)-290(programs)-290(containing)-290(pointers)-290(is)-290(a)-290(chal-)]TJ
+0 -1.2 Td
+[(lenge)-320(for)-320(programmers,)-320(and)-320(HA)134(V)39(OC)-320(is)-320(an)-320(e)14(xcellent)-320(resource)]TJ
+0 -1.2 Td
+[(for)-461(v)14(erifying)-461(programs)-461(heap)-461(data)-461(allocation;)-461(it)-461(reduces)-461(the)]TJ
+0 -1.2 Td
+[(chances)-466(of)-466(imprecision)-466(due)-466(to)-466(dangling)-466(pointer)-466(references.)]TJ
+0 -1.2 Td
+[(Spec#)-263(is)-263(easily)-263(adoptable)-263(v)14(eri\002cation)-263(system)-263(as)-263(it)-263(is)-263(e)14(xtension)]TJ
+0 -1.2 Td
+[(to)-597(an)-597(already)-597(in-demand)-597(language)-597(C#;)-597(programmers)-597(can)]TJ
+0 -1.2 Td
+[(easily)-318(accept)-318(the)-318(change)-318(and)-318(tak)9(e)-318(adv)24(antage)-318(of)-318(speci\002cations)]TJ
+0 -1.2 Td
+[(and)-544(v)14(eri\002cation)-544(for)-544(softw)9(are)-544(solutions.)-544(Eif)24(fel)-544(reduced)-544(the)]TJ
+0 -1.2 Td
+[(ef)24(forts)-507(of)-507(making)-507(e)14(xplicit)-507(annotations)-507(for)-507(dynamic)-507(frames)]TJ
+0 -1.2 Td
+[(using)-414(AutoProof.)-414(ESC/Ja)19(v)25(a)-414(is)-414(not)-414(e)14(xactly)-414(using)-414(the)-414(Boogie)]TJ
+0 -1.2 Td
+[(language)-517(b)19(ut)-517(similar)-517(staging)-517(as)-517(rest)-517(of)-517(the)-517(static)-517(v)14(eri\002ers)]TJ
+0 -1.2 Td
+[(mentioned.)-526(ESC/Ja)19(v)25(a)-526(project)-526(tar)17(geted)-526(the)-526(widely)-526(accepted)]TJ
+0 -1.2 Td
+[(language)-542(for)-542(object-oriented)-542(softw)9(are)-542(de)25(v)14(elopment,)-542(and)-542(it)]TJ
+0 -1.2 Td
+[(is)-593(much)-593(closer)-593(to)-593(static)-593(checking)-593(with)-593(the)-593(capability)-593(of)]TJ
+0 -1.2 Td
+[(addressing)-564(numerous)-564(error)-564(cate)14(gories.)-564(HARPO)-564(V)111(eri\002er)-564(is)]TJ
+0 -1.2 Td
+[(addition)-514(to)-514(list)-514(of)-514(static)-514(v)14(eri\002ers)-514(tar)17(geting)-514(the)-514(v)14(eri\002cation)]TJ
+0 -1.2 Td
+[(of)-397(concurrent)-397(high-le)25(v)14(el)-397(programming)-397(language)-397(designed)-397(to)]TJ
+0 -1.2 Td
+[(tar)17(get)-350(recon\002gurable,)-350(GPUs,)-350(and)-350(microprocessors.)]TJ
+ET
+
+endstream
+endobj
+28 0 obj
+<<
+/Font 30 0 R
+>>
+endobj
+30 0 obj
+<<
+/F1 14 0 R
+/F0 13 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 10140
+>>
+stream
+1 g
+0 0 m
+612 0 l
+612 792 l
+0 792 l
+h
+f
+BT
+/F0 1 Tf
+0 g
+9.9632 0 0 9.9632 0 0 Tm
+13.485 72.872 Td
+[(A)]TJ
+/F0 1 Tf
+7.9705 0 0 7.9705 0 0 Tm
+17.777 91.092 Td
+[(C)-61(K)-61(N)-61(O)-28(W)-62(L)-61(E)-61(D)-61(E)-61(M)-62(E)-61(N)-61(T)-61(S)]TJ
+/F0 1 Tf
+9.9632 0 0 9.9632 0 0 Tm
+6.6004 70.978 Td
+[(This)-307(research)-307(w)9(as)-307(supported)-307(in)-307(part)-307(by)-307(funds)-307(from)-307(the)-307(Na-)]TJ
+-1 -1.2 Td
+[(tional)-409(Science)-409(and)-409(Engineering)-409(Research)-409(Council)-409(\(NSERC\))]TJ
+0 -1.2 Td
+[(of)-350(Canada.)]TJ
+9.6484 -2.4127 Td
+[(R)]TJ
+/F0 1 Tf
+7.9705 0 0 7.9705 0 0 Tm
+19.958 82.708 Td
+[(E)-61(F)-61(E)-61(R)-61(E)-61(N)-61(C)-61(E)-61(S)]TJ
+/F0 1 Tf
+7.9706 0 0 7.9706 0 0 Tm
+7.0006 80.376 Td
+[([1])-625(E.)-373(Dijkstra,)-373(\224The)-373(humble)-373(programmer\224,)-373(Communications)-373(of)-373(the)-373(A)39(CM,)]TJ
+1.791 -1.125 Td
+[(v)19(ol.)-350(15,)-350(no.)-350(10,)-350(pp.)-350(859-866,)-350(1972.)]TJ
+-1.791 -1.1689 Td
+[([2])-625(O.)-498(Hasan)-498(and)-498(S.)-498(T)79(ahar)54(.)-498(\(2015\).)-498(F)14(ormal)-498(V)111(eri\002cation)-498(Methods.)-498(In)-498(M.)]TJ
+1.791 -1.125 Td
+[(Khosro)24(w-Pour)-476(\(Ed.\),)-476(Enc)14(yclopedia)-476(of)-476(Information)-476(Science)-476(and)-476(T)69(ech-)]TJ
+0 -1.125 Td
+[(nology)64(,)-671(Third)-671(Edition)-671(\(pp.)-671(7162-7170\).)-671(Hershe)14(y)64(,)-671(P)91(A:)-671(IGI)-671(Global.)]TJ
+0 -1.125 Td
+[(doi:10.4018/978-1-4666-5888-2.ch705)]TJ
+-1.791 -1.1689 Td
+[([3])-625(K.R.M.)-1749(Leino,)-1749(This)-1749(is)-1749(Boogie)-1749(2,)-1748(Microsoft)-1749(Re-)]TJ
+1.791 -1.125 Td
+[(search,)-1690(T)69(ech.)-1690(Rep.,)-1690(2008,)-1690(draft.)-1690([Online].)-1690(A)74(v)25(ailable:)]TJ
+0 -1.125 Td
+[(http://research.microsoft.com/apps/pubs/def)9(ault.aspx?id=147643)]TJ
+-1.791 -1.1689 Td
+[([4])-625(M.)-377(Leonardo)-377(and)-377(B.)-377(Nik)9(olaj)-377(\223Z3:)-377(An)-377(Ef)24(fecient)-377(SMT)-377(Solv)14(er)54(.)-377(In:)-377(T)79(ools)]TJ
+1.791 -1.125 Td
+[(and)-351(Algorithms)-351(for)-351(the)-351(Construction)-351(and)-351(Analysis)-351(of)-351(Systems.)69(\224)-351(Ed.)-351(By)]TJ
+0 -1.125 Td
+[(C.)-253(R.)-253(Ramakrishnan)-253(and)-253(R.)-253(Jak)10(ob)39(.)-253(V)128(ol.)-253(4963.)-253(Lecture)-253(Notes)-253(in)-253(Computer)]TJ
+0 -1.125 Td
+[(Science.)-384(Berlin,)-384(Heidelber)17(g:)-384(Springer)-384(Berlin,)-384(Apr)54(.)-384(2008.)-384(Chap.)-384(24,)-384(pp.)]TJ
+0 -1.125 Td
+[(337-340.)-298(isbn:)-298(978-3-540-78799-0.)-298(doi:)]TJ
+ET
+0.432 w
+291.46 523.3 m
+293.9 523.3 l
+S
+BT
+/F0 1 Tf
+7.9706 0 0 7.9706 0 0 Tm
+25.151 65.619 Td
+[(10.1007/978-3-540-78800-3)-360(24.)]TJ
+-18.151 -1.1689 Td
+[([5])-625(I.)-571(T)74(.)-571(Kassios.)-571(\223The)-571(dynamic)-571(frames)-571(theory)64(.)-571(In:)-571(F)14(ormal)-571(Aspects)-571(of)]TJ
+1.791 -1.125 Td
+[(Computing\224)-355(23)-355(\(3)-355(2011\),)-355(pp.)-355(267-288.)-355(issn:)-355(0934-5043.)-355(doi:)-355(10)-355(.)-355(1007)]TJ
+0 -1.125 Td
+[(/s00165-010-0152-5.)]TJ
+-1.791 -1.1689 Td
+[([6])-625(W)91(.)-479(Benjamin)-479(\223Deducti)24(v)14(e)-479(v)14(eri\002cation)-479(of)-479(object-oriented)-479(softw)9(are:)-479(dy-)]TJ
+1.791 -1.125 Td
+[(namic)-496(frames,)-496(dynamic)-496(logic)-496(and)-496(predicate)-496(abstraction\224.)-496(PhD)-496(thesis.)]TJ
+0 -1.125 Td
+[(Karlsruhe)-350(Institute)-350(of)-350(T)69(echnology)64(,)-350(2011.)]TJ
+-1.791 -1.1689 Td
+[([7])-625(K.R.M.)-361(Leino)-361(and)-361(V)128(.)-361(Wstholz,)-361(\(2014\).)-361(\223The)-361(Dafn)14(y)-361(inte)14(grated)-361(de)24(v)14(elop-)]TJ
+1.791 -1.125 Td
+[(ment)-350(en)39(vironment.)69(\224)-350(arXi)24(v)-350(preprint)-350(arXi)24(v:1404.6602.)]TJ
+-1.791 -1.1689 Td
+[([8])-625(V)111(ertisoft)-350(XT)50(:)-350(The)-350(V)111(erisoft)-350(XT)-350(project.)-350(http://www)64(.v)14(erisoftxt.de)-350(\(2007\))]TJ
+0 -1.1689 Td
+[([9])-625(K.R.M.)-415(Leino,)-415(P)111(.)-415(Mller)39(,)-415(and)-415(J.)-415(Smans,)-415(V)111(eri\002cation)-415(of)-415(concurrent)-415(pro-)]TJ
+1.791 -1.125 Td
+[(grams)-330(with)-330(Chalice,)-330(in)-330(F)14(oundations)-330(of)-330(Security)-330(Analysis)-330(and)-330(Design)-330(V)128(,)]TJ
+0 -1.125 Td
+[(ser)54(.)-350(LNCS,)-350(v)19(ol.)-350(5705,)-350(2009.)]TJ
+-2.2427 -1.1689 Td
+[([10])-625(B.)-358(John,)-358(\223Checking)-358(interference)-358(with)-358(fractional)-358(permissions.)-358(In)-358(Radhia)]TJ
+2.2427 -1.125 Td
+[(Cousot,)-532(editor)39(,)-532(Static)-532(Analysis\224)-532(10th)-532(International)-532(Symposium,)-532(SAS)]TJ
+0 -1.125 Td
+[(2003,)-321(v)19(olume)-321(2694)-321(of)-321(Lecture)-321(Notes)-321(in)-321(Computer)-321(Science,)-321(pages)-321(5572.)]TJ
+0 -1.125 Td
+[(Springer)39(,)-350(June)-350(2003.)]TJ
+-2.2427 -1.1689 Td
+[([11])-625(Y)128(.)-534(Jean)-534(and)-534(C.)-534(Ha)14(wblitzel.)-534(\224Safe)-534(to)-534(the)-534(last)-534(instruction:)-534(automated)]TJ
+2.2427 -1.125 Td
+[(v)14(eri\002cation)-285(of)-285(a)-285(type-safe)-285(operating)-285(system.)69(\224)-285(A)39(CM)-285(Sigplan)-285(Notices)-285(45.6)]TJ
+0 -1.125 Td
+[(\(2010\):)-350(99-110.)]TJ
+-2.2427 -1.1689 Td
+[([12])-625(J.)-601(Chen,)-601(C.)-601(Ha)14(wblitzel,)-601(F)79(.)-601(Perry)64(,)-601(M.)-601(Emmi)-601(et)-601(al.\223T)79(ype-preserving)]TJ
+2.2427 -1.125 Td
+[(compilation)-823(for)-823(lar)17(ge-scale)-823(optimizing)-823(object-oriented)-823(compilers.)69(\224)]TJ
+0 -1.125 Td
+[(SIGPLAN)-1142(Not.,)-1143(43\(6\):183192,)-1143(2008.)-1143(ISSN)-1142(0362-1340.)-1143(doi:)]TJ
+0 -1.125 Td
+[(http://doi.acm.or)17(g/10.1145/1379022.1375604.)]TJ
+-2.2427 -1.1689 Td
+[([13])-625(S.)-523(Chatterjee,)-523(S.K.)-523(Lahiri,)-523(S.)-523(Qadeer)39(,)-523(et)-523(al.)-523(\(2007\))-523(\223)79(A)-523(Reachability)]TJ
+2.2427 -1.125 Td
+[(Predicate)-513(for)-513(Analyzing)-513(Lo)25(w-Le)25(v)14(el)-513(Softw)10(are.)69(\224)-513(In:)-513(O.)-513(Grumber)17(g,)-513(M.)]TJ
+0 -1.125 Td
+[(Huth)-380(\(eds\))-380(T)79(ools)-380(and)-380(Algorithms)-380(for)-380(the)-380(Construction)-380(and)-380(Analysis)-380(of)]TJ
+0 -1.125 Td
+[(Systems.)-368(T)92(A)39(CAS)-368(2007.)-368(Lecture)-368(Notes)-368(in)-368(Computer)-368(Science,)-368(v)19(ol)-368(4424.)]TJ
+0 -1.125 Td
+[(Springer)39(,)-350(Berlin,)-350(Heidelber)17(g)]TJ
+-2.2427 -1.1689 Td
+[([14])-625(B.)-284(Mik)9(e,)-284(K.)-284(Rustan)-284(M.)-284(Leino,)-284(and)-284(S.)-284(W)79(olfram.)-284(\223The)-284(Spec)-284(programming)]TJ
+2.2427 -1.125 Td
+[(system:)-298(An)-298(o)14(v)14(ervie)24(w)64(.)-298(In)-298(Construction)-298(and)-298(Analysis)-298(of)-298(Safe,)-298(Secure,)-298(and)]TJ
+0 -1.125 Td
+[(Interoperable)-367(Smart)-367(de)25(vices)-367(\(CASSIS\)\224)-367(v)19(olume)-367(3362)-367(of)-367(Lecture)-367(Notes)]TJ
+0 -1.125 Td
+[(in)-350(Computer)-350(Science,)-350(pages)-350(4960.)-350(Springer)39(,)-350(2004.)]TJ
+-2.2427 -1.1689 Td
+[([15])-625(J.)-450(Tschannen,)-450(C.A.)-450(Furia,)-450(M.)-450(Nordio,)-450(et)-450(al.)-450(\(2011\).)-450(\223V)111(erifying)-450(Eif)24(fel)]TJ
+2.2427 -1.125 Td
+[(programs)-350(with)-350(Boogie.)69(\224)-350(arXi)25(v)-350(preprint)-350(arXi)24(v:1106.4700.)]TJ
+-2.2427 -1.1689 Td
+[([16])-625(C.)-531(Flanag)4(an,)-531(K.)-531(R.)-531(M.)-531(Leino,)-531(M.)-531(Lillibridge)-531(et)-531(al.)-531(Extended)-531(static)]TJ
+2.2427 -1.125 Td
+[(checking)-350(for)-350(Ja)19(v)24(a.)-350(In)-350(PLDI,)-350(pages)-350(234245.)-350(A)39(CM,)-350(2002.)]TJ
+-2.2427 -1.1689 Td
+[([17])-625(T)73(.S.)-392(Norv)14(ell,)-392(\223Language)-392(design)-392(for)-392(CGRA)-392(project.)-392(design)-392(8.)69(\224)-392([unpub-)]TJ
+2.2427 -1.125 Td
+[(lished)-350(draft],)-350(Memorial)-350(Uni)24(v)14(ersity)-350(of)-350(Ne)24(wfoundland,)-350(2013.)]TJ
+-2.2427 -1.1689 Td
+[([18])-625(T)73(.S.)-304(Norv)14(ell,)-304(A.T)74(.)-304(Md.Ashraful,)-304(L.Xiangwen,)-608(Z.)-304(Dian)14(yong,)-304(HARPO/L:)]TJ
+2.2427 -1.125 Td
+[(A)-296(language)-296(for)-296(hardw)9(are/softw)9(are)-296(codesign.)-296(in)-296(Ne)24(wfoundland)-296(Electrical)]TJ
+0 -1.125 Td
+[(and)-350(Computer)-350(Engineering)-350(Conference)-350(\(NECEC\),)-350(2008.)]TJ
+-2.2427 -1.1689 Td
+[([19])-625(T)73(.)-512(S.)-512(Norv)14(ell,)-512(A)-512(grainless)-512(semantics)-512(for)-512(the)-512(HARPO/L)-512(language)-512(in)]TJ
+2.2427 -1.125 Td
+[(Canadian)-350(Electrical)-350(and)-350(Computer)-350(Engineering)-350(Conference,)-350(2009.)]TJ
+-2.2427 -1.1689 Td
+[([20])-625(T)73(.)-340(S.)-340(Norv)14(ell,)-340(\223)79(Annotations)-340(for)-340(V)111(eri\002cation)-340(of)-340(HARPOL.)-340(Draft)-340(V)111(ersion)]TJ
+2.2427 -1.125 Td
+[(0.)69(\224)-350([unpublished)-350(draft],)-350(Memorial)-350(Uni)25(v)14(ersity)-350(of)-350(Ne)24(wfoundland)-350(2014.)]TJ
+-2.2427 -1.1689 Td
+[([21])-625(I.)-458(Ahmed,)-458(T)73(.S.)-458(Norv)14(ell,)-458(R.)-458(V)111(enkatesan,)-458(\223V)111(erifying)-458(the)-458(correctness)-458(of)]TJ
+2.2427 -1.125 Td
+[(HARPO)-316(Programs)-316(in)-316(Ne)24(wfoundland)-316(Electrical)-316(and)-316(Computer)-316(Engineer)19(-)]TJ
+0 -1.125 Td
+[(ing)-350(Conference)-350(\(NECEC\),)-350(2018.)]TJ
+-2.2427 -1.1689 Td
+[([22])-625(Y)128(.G.)-491(F)14(atemeh,)-491(\223V)111(eri\002cation)-491(of)-491(the)-491(HARPO)-491(language)-491(Masters)-491(thesis,)]TJ
+2.2427 -1.125 Td
+[(Memorial)-350(Uni)24(v)14(ersity)64(,)-350(2014.)]TJ
+31.137 82.512 Td
+[([23])-625(T)73(.)-370(S.)-370(Norv)14(ell,)-370(\223HARPO/L:)-370(\223Concurrent)-370(Softw)10(are)-370(V)111(eri\002cation)-370(with)-370(Ex-)]TJ
+2.2427 -1.125 Td
+[(plicit)-278(T)34(ransfer)-278(of)-278(Permission\224)-278(in)-278(Ne)25(wfoundland)-278(Electrical)-278(and)-278(Computer)]TJ
+0 -1.125 Td
+[(Engineering)-350(Conference)-350(\(NECEC\),)-350(2017.)]TJ
+-2.2427 -1.125 Td
+[([24])-625(I.)-520(Ahmed,)-520(T)74(.S.)-520(Norv)14(ell,)-520(R.)-520(V)111(enkatesan,)-520(\223Design)-520(and)-520(V)111(eri\002cation)-520(of)]TJ
+2.2427 -1.125 Td
+[(Counter)-624(Using)-624(HARPO)-624(Programming)-624(Language\224)-624(in)-624(Ne)24(wfoundland)]TJ
+0 -1.125 Td
+[(Electrical)-350(and)-350(Computer)-350(Engineering)-350(Conference)-350(\(NECEC\),)-350(2019.)]TJ
+ET
+
+endstream
+endobj
+31 0 obj
+<<
+/Font 33 0 R
+>>
+endobj
+33 0 obj
+<<
+/F0 13 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 2153
+>>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (BaKoMa)
+/Ordering (Attend)
+/Supplement 0
+>> def
+/CMapName /CMap21 def
+/CMapType 2 def
+1 begincodespacerange
+<00> <FF>
+endcodespacerange
+140 beginbfchar
+<00> <0393>
+<01> <0394>
+<02> <0398>
+<03> <039b>
+<04> <039e>
+<05> <03a0>
+<06> <03a3>
+<07> <03a5>
+<08> <03a6>
+<09> <03a8>
+<0a> <03a9>
+<0b> <03b1>
+<0c> <03b2>
+<0d> <03b3>
+<0e> <03b4>
+<10> <03b6>
+<11> <03b7>
+<12> <03b8>
+<13> <03b9>
+<14> <03ba>
+<15> <03bb>
+<16> <03bc>
+<17> <03bd>
+<18> <03be>
+<19> <03c0>
+<1a> <03c1>
+<1b> <03c3>
+<1c> <03c4>
+<1d> <03c5>
+<1e> <03c6>
+<1f> <03c7>
+<20> <03c8>
+<21> <03c9>
+<22> <03b5>
+<23> <03d1>
+<26> <03c2>
+<27> <03d5>
+<30> <f730>
+<31> <f731>
+<32> <f732>
+<33> <f733>
+<34> <f734>
+<35> <f735>
+<36> <f736>
+<37> <f737>
+<38> <f738>
+<39> <f739>
+<3a> <002e>
+<3b> <002c>
+<3c> <003c>
+<3d> <002f>
+<3e> <003e>
+<40> <2202>
+<41> <0041>
+<42> <0042>
+<43> <0043>
+<44> <0044>
+<45> <0045>
+<46> <0046>
+<47> <0047>
+<48> <0048>
+<49> <0049>
+<4a> <004a>
+<4b> <004b>
+<4c> <004c>
+<4d> <004d>
+<4e> <004e>
+<4f> <004f>
+<50> <0050>
+<51> <0051>
+<52> <0052>
+<53> <0053>
+<54> <0054>
+<55> <0055>
+<56> <0056>
+<57> <0057>
+<58> <0058>
+<59> <0059>
+<5a> <005a>
+<61> <0061>
+<62> <0062>
+<63> <0063>
+<64> <0064>
+<65> <0065>
+<66> <0066>
+<67> <0067>
+<68> <0068>
+<69> <0069>
+<6a> <006a>
+<6b> <006b>
+<6c> <006c>
+<6d> <006d>
+<6e> <006e>
+<6f> <006f>
+<70> <0070>
+<71> <0071>
+<72> <0072>
+<73> <0073>
+<74> <0074>
+<75> <0075>
+<76> <0076>
+<77> <0077>
+<78> <0078>
+<79> <0079>
+<7a> <007a>
+<7b> <0131>
+<80> <03c8>
+<a0> <0020>
+<a1> <0393>
+<a2> <0394>
+<a3> <0398>
+<a4> <039b>
+<a5> <039e>
+<a6> <03a0>
+<a7> <03a3>
+<a8> <03a5>
+<a9> <03a6>
+<aa> <03a8>
+<ad> <03a9>
+<ae> <03b1>
+<af> <03b2>
+<b0> <03b3>
+<b1> <03b4>
+<b3> <03b6>
+<b4> <03b7>
+<b5> <03b8>
+<b6> <03b9>
+<b7> <03ba>
+<b8> <03bb>
+<b9> <03bc>
+<ba> <03bd>
+<bb> <03be>
+<bc> <03c0>
+<bd> <03c1>
+<be> <03c3>
+<bf> <03c4>
+<c0> <03c5>
+<c1> <03c6>
+<c2> <03c7>
+<c3> <03c8>
+endbfchar
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+
+endstream
+endobj
+35 0 obj
+<<
+/Length 3572
+>>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (BaKoMa)
+/Ordering (Attend)
+/Supplement 0
+>> def
+/CMapName /CMap12 def
+/CMapType 2 def
+1 begincodespacerange
+<00> <FF>
+endcodespacerange
+247 beginbfchar
+<01> <02d9>
+<02> <00660069>
+<03> <0066006c>
+<04> <2215>
+<05> <02dd>
+<06> <0141>
+<07> <0142>
+<08> <02db>
+<09> <02da>
+<0b> <02d8>
+<0c> <2212>
+<0e> <017d>
+<0f> <017e>
+<10> <02c7>
+<11> <0131>
+<13> <00660066>
+<14> <006600660069>
+<15> <00660066006c>
+<16> <2260>
+<17> <221e>
+<18> <2264>
+<19> <2265>
+<1a> <2202>
+<1b> <2211>
+<1c> <220f>
+<1d> <03c0>
+<1e> <0060>
+<1f> <0027>
+<20> <0020>
+<21> <0021>
+<22> <0022>
+<23> <0023>
+<24> <0024>
+<25> <0025>
+<26> <0026>
+<27> <2019>
+<28> <0028>
+<29> <0029>
+<2a> <002a>
+<2b> <002b>
+<2c> <002c>
+<2d> <002d>
+<2e> <002e>
+<2f> <002f>
+<30> <0030>
+<31> <0031>
+<32> <0032>
+<33> <0033>
+<34> <0034>
+<35> <0035>
+<36> <0036>
+<37> <0037>
+<38> <0038>
+<39> <0039>
+<3a> <003a>
+<3b> <003b>
+<3c> <003c>
+<3d> <003d>
+<3e> <003e>
+<3f> <003f>
+<40> <0040>
+<41> <0041>
+<42> <0042>
+<43> <0043>
+<44> <0044>
+<45> <0045>
+<46> <0046>
+<47> <0047>
+<48> <0048>
+<49> <0049>
+<4a> <004a>
+<4b> <004b>
+<4c> <004c>
+<4d> <004d>
+<4e> <004e>
+<4f> <004f>
+<50> <0050>
+<51> <0051>
+<52> <0052>
+<53> <0053>
+<54> <0054>
+<55> <0055>
+<56> <0056>
+<57> <0057>
+<58> <0058>
+<59> <0059>
+<5a> <005a>
+<5b> <005b>
+<5c> <005c>
+<5d> <005d>
+<5e> <005e>
+<5f> <005f>
+<60> <2018>
+<61> <0061>
+<62> <0062>
+<63> <0063>
+<64> <0064>
+<65> <0065>
+<66> <0066>
+<67> <0067>
+<68> <0068>
+<69> <0069>
+<6a> <006a>
+<6b> <006b>
+<6c> <006c>
+<6d> <006d>
+<6e> <006e>
+<6f> <006f>
+<70> <0070>
+<71> <0071>
+<72> <0072>
+<73> <0073>
+<74> <0074>
+<75> <0075>
+<76> <0076>
+<77> <0077>
+<78> <0078>
+<79> <0079>
+<7a> <007a>
+<7b> <007b>
+<7c> <007c>
+<7d> <007d>
+<7e> <007e>
+<80> <20ac>
+<81> <222b>
+<82> <201a>
+<83> <0192>
+<84> <201e>
+<85> <2026>
+<86> <2020>
+<87> <2021>
+<88> <02c6>
+<89> <2030>
+<8a> <0160>
+<8b> <2039>
+<8c> <0152>
+<8d> <03a9>
+<8e> <221a>
+<8f> <2248>
+<93> <201c>
+<94> <201d>
+<95> <2022>
+<96> <2013>
+<97> <2014>
+<98> <02dc>
+<99> <2122>
+<9a> <0161>
+<9b> <203a>
+<9c> <0153>
+<9d> <0394>
+<9e> <25ca>
+<9f> <0178>
+<a1> <00a1>
+<a2> <00a2>
+<a3> <00a3>
+<a4> <00a4>
+<a5> <00a5>
+<a6> <00a6>
+<a7> <00a7>
+<a8> <00a8>
+<a9> <00a9>
+<aa> <00aa>
+<ab> <00ab>
+<ac> <00ac>
+<ad> <002d>
+<ae> <00ae>
+<af> <02c9>
+<b0> <00b0>
+<b1> <00b1>
+<b2> <00b2>
+<b3> <00b3>
+<b4> <00b4>
+<b5> <03bc>
+<b6> <00b6>
+<b7> <2219>
+<b8> <00b8>
+<b9> <00b9>
+<ba> <00ba>
+<bb> <00bb>
+<bc> <00bc>
+<bd> <00bd>
+<be> <00be>
+<bf> <00bf>
+<c0> <00c0>
+<c1> <00c1>
+<c2> <00c2>
+<c3> <00c3>
+<c4> <00c4>
+<c5> <00c5>
+<c6> <00c6>
+<c7> <00c7>
+<c8> <00c8>
+<c9> <00c9>
+<ca> <00ca>
+<cb> <00cb>
+<cc> <00cc>
+<cd> <00cd>
+<ce> <00ce>
+<cf> <00cf>
+<d0> <00d0>
+<d1> <00d1>
+<d2> <00d2>
+<d3> <00d3>
+<d4> <00d4>
+<d5> <00d5>
+<d6> <00d6>
+<d7> <00d7>
+<d8> <00d8>
+<d9> <00d9>
+<da> <00da>
+<db> <00db>
+<dc> <00dc>
+<dd> <00dd>
+<de> <00de>
+<df> <00df>
+<e0> <00e0>
+<e1> <00e1>
+<e2> <00e2>
+<e3> <00e3>
+<e4> <00e4>
+<e5> <00e5>
+<e6> <00e6>
+<e7> <00e7>
+<e8> <00e8>
+<e9> <00e9>
+<ea> <00ea>
+<eb> <00eb>
+<ec> <00ec>
+<ed> <00ed>
+<ee> <00ee>
+<ef> <00ef>
+<f0> <00f0>
+<f1> <00f1>
+<f2> <00f2>
+<f3> <00f3>
+<f4> <00f4>
+<f5> <00f5>
+<f6> <00f6>
+<f7> <00f7>
+<f8> <00f8>
+<f9> <00f9>
+<fa> <00fa>
+<fb> <00fb>
+<fc> <00fc>
+<fd> <00fd>
+<fe> <00fe>
+<ff> <00ff>
+endbfchar
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+
+endstream
+endobj
+36 0 obj
+<<
+/Length 219
+/Subtype /Type1C
+>>
+stream
+  RXVUKV+CMMI10 „/‚PˇHˇuÃœ¨˜I 	epsilon1   á l˜·¯*Ä°˜k™˜#™∫÷˜æ˜võùãúôãz˚6£‡√≈Êã™úõãúô~ãzh˚˚'˚-˚÷<ıÃÃ≥ñéäñÇâãâãÇÖlwfzfãQYµ„ãÆì±éóu°˘?°˚¶ññò˚añ§ë
+7ü	™
+”ãEND
+endstream
+endobj
+22 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F5
+/BaseFont /RXVUKV+CMMI10
+/Encoding 21 0 R
+/ToUnicode 34 0 R
+/FirstChar 0
+/LastChar 196
+/Widths [614 832 761 693 741 830 778 582 665 611 771 638 564 516 443 404 436
+495 468 352 575 582 601 492 436 569 516 570 436 539 594 625 650 621 465 590 827
+516 361 653 1000 1000 1000 1000 276 276 500 500 500 500 500 500 500 500 500 500
+500 500 276 276 776 500 776 500 529 750 757 713 826 737 642 785 830 438 553 848
+679 969 802 761 641 789 758 612 583 681 582 943 827 579 681 387 387 387 1000
+1000 415 527 428 431 519 464 488 475 575 343 410 519 297 877 599 483 502 445
+450 467 360 571 483 714 570 489 464 321 383 635 500 276 650 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 332 614 832 761 693 741 830 778 582
+665 611 0 0 771 638 564 516 443 404 436 495 468 352 575 582 601 492 436 569 516
+570 436 539 594 625 650 276 ]
+/FontDescriptor <<
+/Type /FontDescriptor
+/Flags 4
+/ItalicAngle 0
+/FontName /RXVUKV+CMMI10
+/FontBBox [-32 -250 1048 750]
+/FontFile3 36 0 R
+/CapHeight 562
+/XHeight 426
+/Ascent 750
+/Descent -250
+/StemV 72
+/StemH 31
+>>
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F4
+/BaseFont /Times-Bold
+/Encoding 12 0 R
+/ToUnicode 35 0 R
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-BoldItalic
+/Encoding 12 0 R
+/ToUnicode 35 0 R
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Courier
+/Encoding 12 0 R
+/ToUnicode 35 0 R
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Italic
+/Encoding 12 0 R
+/ToUnicode 35 0 R
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F0
+/BaseFont /Times-Roman
+/Encoding 12 0 R
+/ToUnicode 35 0 R
+>>
+endobj
+1 0 obj
+[ /PDF /Text /ImageB /ImageC ]
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 4 0 R 
+>>
+endobj
+3 0 obj
+<<
+/Creator (BaKoMa TeX 11.80 27920P1899/-1328764266)
+/Producer (Theodore Norvell)
+/CreationDate (D:20191028143859)
+>>
+endobj
+4 0 obj
+<<
+/Type /Pages
+/Count 5
+/MediaBox [0 0 612 792]
+/Kids [5 0 R  6 0 R  7 0 R  8 0 R  9 0 R ]
+>>
+endobj
+5 0 obj
+<<
+/ProcSet 1 0 R 
+/Type /Page
+/Parent 4 0 R 
+/Resources 10 0 R 
+/Contents 18 0 R 
+>>
+endobj
+6 0 obj
+<<
+/ProcSet 1 0 R 
+/Type /Page
+/Parent 4 0 R 
+/Resources 20 0 R 
+/Contents 23 0 R 
+>>
+endobj
+7 0 obj
+<<
+/ProcSet 1 0 R 
+/Type /Page
+/Parent 4 0 R 
+/Resources 25 0 R 
+/Contents 26 0 R 
+>>
+endobj
+8 0 obj
+<<
+/ProcSet 1 0 R 
+/Type /Page
+/Parent 4 0 R 
+/Resources 28 0 R 
+/Contents 29 0 R 
+>>
+endobj
+9 0 obj
+<<
+/ProcSet 1 0 R 
+/Type /Page
+/Parent 4 0 R 
+/Resources 31 0 R 
+/Contents 32 0 R 
+>>
+endobj
+xref
+0 37
+0000000000 65535 f
+0000073687 00000 n
+0000073736 00000 n
+0000073790 00000 n
+0000073928 00000 n
+0000074042 00000 n
+0000074147 00000 n
+0000074252 00000 n
+0000074357 00000 n
+0000074462 00000 n
+0000013634 00000 n
+0000013600 00000 n
+0000000017 00000 n
+0000073559 00000 n
+0000073430 00000 n
+0000073306 00000 n
+0000073173 00000 n
+0000073046 00000 n
+0000001895 00000 n
+0000013707 00000 n
+0000028511 00000 n
+0000013793 00000 n
+0000071909 00000 n
+0000014782 00000 n
+0000028551 00000 n
+0000042256 00000 n
+0000028613 00000 n
+0000042296 00000 n
+0000055400 00000 n
+0000042346 00000 n
+0000055440 00000 n
+0000065691 00000 n
+0000055490 00000 n
+0000065731 00000 n
+0000065769 00000 n
+0000067982 00000 n
+0000071614 00000 n
+trailer
+<<
+/Size 37
+/Root 2 0 R
+/Info 3 0 R
+>>
+startxref
+74567
+%%EOF
