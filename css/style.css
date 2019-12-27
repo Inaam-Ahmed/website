@@ -1,0 +1,61 @@
+body{
+  background-color: brown;
+  color: white;
+}
+
+h1{
+  color: white;
+}
+
+h2{
+  color: white;
+}
+
+h3{
+  color: white;
+}
+
+a{
+  color: #59A4FF;
+}
+a:hover {
+  color: #0400FF;
+  font-style:oblique ;
+}
+
+div.menu{
+
+  width:100%;
+  color: black;
+  align: center;
+  border-color : rgb(173,224,255) ;
+  background-color:rgb(255,255,255) ;
+  padding: 0ex 0ex 0ex 0ex;
+  position: center;
+  margin-top: 0ex ;
+  margin-bottom: 0ex ;
+  -moz-border-radius: 10px ;
+  border-radius: 5px ;
+}
+
+
+div.box{
+  width:auto;
+  color: black;
+  align: center;
+  border-color : rgb(173,224,255) ;
+  background-color:rgb(255,255,255) ;
+  padding: 1ex 2ex 1ex 2ex;
+  position: center;
+  margin-top: 1ex ;
+  margin-bottom: 1ex ;
+  -moz-border-radius: 10px ;
+  border-radius: 5px ;
+}
+
+.box h3{
+  color: black;
+}
+
+.footer{
+}
