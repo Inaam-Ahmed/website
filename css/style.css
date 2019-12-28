@@ -23,21 +23,10 @@ a:hover {
   font-style:oblique ;
 }
 
-div.menu{
-
-  width:100%;
-  color: black;
-  align: center;
-  border-color : rgb(173,224,255) ;
-  background-color:rgb(255,255,255) ;
-  padding: 0ex 0ex 0ex 0ex;
-  position: center;
-  margin-top: 0ex ;
-  margin-bottom: 0ex ;
-  -moz-border-radius: 10px ;
-  border-radius: 5px ;
+.menu1{
+  font-size: 20;
+  font-family: sans-serif;
 }
-
 
 div.box{
   width:auto;
@@ -45,7 +34,7 @@ div.box{
   align: center;
   border-color : rgb(173,224,255) ;
   background-color:rgb(255,255,255) ;
-  padding: 1ex 2ex 1ex 2ex;
+  padding: 2ex 4ex 2ex 4ex;
   position: center;
   margin-top: 1ex ;
   margin-bottom: 1ex ;
@@ -56,6 +45,8 @@ div.box{
 .box h3{
   color: black;
 }
-
+.edu {
+  font-family: monospace;
+}
 .footer{
 }

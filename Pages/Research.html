@@ -1,11 +1,5 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-<style>
-body {background-color: white;}
-h1   {color: black;}
-h2   {color: black;}
-h3    {color: black;}
-</style>
 <head>
   <meta charset="utf-8">
   <link rel="stylesheet" href="../css/style.css">
@@ -16,15 +10,13 @@ h3    {color: black;}
 
   <h1 align = "center" style="background-color:hsl(0, 100%, 25%)"> Research </h1>
 
-  <h2> HARPO Programming Languge</h2>
+  <h2> Research Projects </h2>
   <div class="box">
-    <h3> Language Design </h3>
-    <ul>
-      <li>
-        <p> HARPO stands for HARdware Programming with Objects. HARPO/L is a programming language for hardware/software codesign. The language is based on the idea of a network of cooperating, multi- threaded objects. I have been designing the language and investigating methods of compiling it and similar languages to programmable hardware such as Coarse-Grained Reconfigurable Architectures. Currently we are looking at methods of proving concurrent programs free of certain classes of error and that they meet their specifications.</p> </li>
-        <li> <a href="../Attachments/Project Presentation.pdf"> Project Presentation </a> </li>
-        <li> <a href="../Attachments/HARPO_Poster.pdf"> Poster </a> </li>
-      </ul>
+    <h3> HARPO Programming Language Design </h3>
+        <p> HARPO stands for HARdware Programming with Objects. HARPO/L is a programming language for hardware/software codesign. The language is based on the idea of a network of cooperating, multi- threaded objects. I have been designing the language and investigating methods of compiling it and similar languages to programmable hardware such as Coarse-Grained Reconfigurable Architectures. Currently we are looking at methods of proving concurrent programs free of certain classes of error and that they meet their specifications.<br>
+        <a href="../Attachments/Project Presentation.pdf"> Project Presentation </a><br>
+        <a href="../Attachments/HARPO_Poster.pdf"> Poster </a>
+      </p>
       <table align="center">
         <tr>
           <td>
@@ -39,146 +31,107 @@ h3    {color: black;}
       </table>
 
       <h3> Formal Verification of HARPO </h3>
-      <ul>
-        <li>
-          <p>This paper reports an implementation of a verifier for HARPO, a concurrent programming language. The verifier translates annotated programs into the intermediate verification language Boogie; the translated program is then checked by the Boogie verifier. The translation of HARPO programs is achieved by parsing the source code into valid abstract syntax tree; each node of the syntax tree is then used for generating its equivalent Boogie code. By using our verifier, HARPO programmers can be assured that their designs are free of defects.
-          </p>
-        </li>
-        <li>
+          <p>This paper reports an implementation of a verifier for HARPO, a concurrent programming language. The verifier translates annotated programs into the intermediate verification language Boogie; the translated program is then checked by the Boogie verifier. The translation of HARPO programs is achieved by parsing the source code into valid abstract syntax tree; each node of the syntax tree is then used for generating its equivalent Boogie code. By using our verifier, HARPO programmers can be assured that their designs are free of defects.<br>
           <a href="../Attachments/Verifying the Correctness of HARPO Programs.pdf"> Read Full Text </a>
-        </li>
-        <li>
-          <p>Errors in the software are hazardous. Testing software, before its deployment, may catch some errors present in the software. However, testing does not guarantee their absence. Several formal verification tools have been built and used for formal verification to ensure the correctness of software in different programming languages. The Boogie language is a common intermediate representation for static verification of programs written in several high-level programming languages. In this paper, notable software verifiers such as Dafny, VCC, HAVOC, Verve, and Chalice are described and analyzed for similarities and dissimilarities with the HARPO verifier.
           </p>
-        </li>
-        <li>
+
+          <p>Errors in the software are hazardous. Testing software, before its deployment, may catch some errors present in the software. However, testing does not guarantee their absence. Several formal verification tools have been built and used for formal verification to ensure the correctness of software in different programming languages. The Boogie language is a common intermediate representation for static verification of programs written in several high-level programming languages. In this paper, notable software verifiers such as Dafny, VCC, HAVOC, Verve, and Chalice are described and analyzed for similarities and dissimilarities with the HARPO verifier.<br>
           <a href="../Attachments/A Review of Formal Program Verification Tools.pdf"> Read Full Text </a>
-        </li>
-        <li>
-          <p>HARPO (HARdware Parallel Objects) is a concurrent programming language designed to run on coarse-grained reconfigurable computing architectures, Field Programmable Gate Arrays (FPGAs), and Graphicaal Processing Units (GPUs). The HARPO compiler translates programs into Boogie for verification and into VHDL for implementation on FPGA. Writing specifications and annotations in HARPO language for a hardware design shortens the development time and bridges the gap between high-level programming languages and hardware description languages. In this paper, the design of an integer “Counter” is verified using HARPO Verifier by translating the program into Boogie. Various counting scenarios containing explicit transfer of permissions have been verified using HARPO verifier. The correctness of design must be verified before translating and implementing the design on FPGA.
           </p>
-        </li>
-        <li>
+
+          <p>HARPO (HARdware Parallel Objects) is a concurrent programming language designed to run on coarse-grained reconfigurable computing architectures, Field Programmable Gate Arrays (FPGAs), and Graphicaal Processing Units (GPUs). The HARPO compiler translates programs into Boogie for verification and into VHDL for implementation on FPGA. Writing specifications and annotations in HARPO language for a hardware design shortens the development time and bridges the gap between high-level programming languages and hardware description languages. In this paper, the design of an integer “Counter” is verified using HARPO Verifier by translating the program into Boogie. Various counting scenarios containing explicit transfer of permissions have been verified using HARPO verifier. The correctness of design must be verified before translating and implementing the design on FPGA.<br>
           <a href="../Attachments/Design and Verification of a Counter using HARPO Programming Language.pdf"> Read Full Text </a>
-        </li>
-      </ul>
-    </div>
-
-    <h2> Static Program Verification</h2>
-    <div class="box">
-      <h3> Dafny Interactive Theorem Prover </h3>
-      <ul>
-        <li><p> Formal program verification has been used as a technique to ensure program correctness for several years. In this paper, the backend of formal verification system, named Boogie IVL, is discussed using interactive verifier named the Dafny. In this paper, the Dafny language and verifier are reviewed in detail. Some important features which are unavailable in high level programming languages like Java, C, and, Python but the Dafny language has direct support for those features namely sets, sequences, and, termination matric etc. The Dafny IDE and its integration available with Visual Studio is being used as verifier of a complete software system. It supports modularity, generic classes, abstraction, and, reverification. The Dafny compiler can produce both .NET executable code and verification conditions for Boogie Verification Debugger. We have also analysed the verification results of algorithms named, bubble sort, nth fibonacci number, and, schorr waite with benefits of using Dafny IDE. When the Dafny language was designed some essential techniques in formal verification namely, verification-splitting and timeout had not received attention by its developers. These features are highlighted in this paper, and we found that as compared to other verifiers e.g VCC, Eiffel, and, Spec# the Dafny verifier IDE has more interactive program verification system.
-        </p></li>
-        <li><a href="../Attachments/Formal Verification in Dafny.pdf" > Read Full Text </a>
-        </li>
-      </ul>
-    </div>
-
-    <h2> Desing by Contract: Object Oriented Software Desing and Specification </h2>
-    <div class="box">
-      <h3> Schedule Management Application implemented using Desing-by-Contract approach  </h3>
-      <ul>
-        <li>
-          <p> Create course schedule, view that schedule with section, room#, instructor and time interval. Manipulate weekly schedule, identify conflicts, enter constraints (hard & Soft), suggest schedule with minimized conflicts.  </p></li>
-          <li>
-            <a href="../Attachments/Design by Contract Schedule Management.pdf" > Read Full Text </a>
-          </li>
-        </ul>
-      </div>
-
-      <h2> In Memory Processing with Micron Automata Processors </h2>
-      <div class="box">
-        <h3> In-Memory Processing </h3>
-        <ul>
-          <li><p> Since IoT is an information technology buzzword today, and In-Memory Computation is a highly parallel processing architecture of comprehensive search and analysis. There is no standard architecture for IoT, exploring the architectural aspects of authentication of things connected to others via the Internet and small networks. This process is compulsory before joining the internet either it is Web of Things, Machine to Machine, or Human to Machine frame of communication. For connected moveable devices or objects when they switch from one network to another, their connectivity to the network must be ensured, and on the other side when intrusion encountered from outside the IoT environment it must be handled by the security policy implemented on servicing computing machine. This search is as simple to implement with hash tables, but hashing becomes inefficient when entries become more significant and not scalable. Devices profiles and firewalls for authentication and intrusion detection/prevention must be maintained after they are authenticated. When thousands of devices need to get connected with IoT environment then managing their authentication and intrusion blocking policies must be performed quickly and giving an impression of dedicated service response from the server machine. These high-performance servers are implemented with MIMD machines. Accelerating service of requests from IoT’s low-end devices using In-Memory Computation is will be a new approach for comprehensive search and analysis. The technique of Automata Processing used for search of device identity speed up the processes of authentication if implemented on Micron Automata Processor, an In-Memory Computing Architecture. In this report with amalgamation of IoT and Non-Von Neuman Architecture with a new approach of authentication with their background and viability study.
-          </li>
-          <li><a href="../Attachments/Report HPCA.pdf" > Read Full Text </a></li>
-        </ul>
-      </div>
-
-      <h2> Java: Messanger Applications with Randezevous </h2>
-      <div class="box">
-        <h3> Multithreaded Chat Application </h3>
-        <ul>
-          <li> <p> In this project, A Multithreaded Client-Server Architecture based application is implemented which works like a group chat room. Since Java has a most dominant impact on Network Programming timeline and this application problem inherently come up with network involvement plus concurrency and synchronization in parallel operations of clients. Java is also good in multithreading solutions. So, Java platform will be used in the development of this project and all the sources will be tested and build using JDK later JVM. The server will run continuously receiving requests from connecting clients and grant access to chat group using Java Socket Programming Primitives. Parallelism in Java is no doubt excellent we can take advantage of multithreaded parallelism but host machines may differ in different situations so the code must be optimized generally for all machines. One of the big challenges is using socket programming granularity of synchronization point will increases as compared to interface programming of Java but it is good to catch up those synchronization granularities for more optimized application development. The server has its backlog as a bottleneck to respond limited set of clients at a time. We are going to scale it to a larger number of users in future. Security is a big challenge for intrusion detection and prevention in chat room
           </p>
-        </li>
-        <li><a href="../Attachments/ACP Project Presentation.pdf" > Project Presentation </a></li>
-        <li><a href="../Attachments/ACP Report.pdf" > Read Full Text </a></li>
-      </ul>
-    </div>
-    <h2> Telemedicine with Web Applications </h2>
-    <div class="box">
-      <h3> Web Based Electrocardiogram Monitoring System </h3>
-      <ul>
-        <li>
-          <p> Telemedicine services increase the quality and accessibility of healthcare services. In this project named “Web Based ECG Monitoring System” we develop ECG monitoring which has potential to address diverse diseases in human body and by increasing the quality of treatment. Monitor Patients in remote area where clinical services such as ECG are not available. Off the shelf Arduino based shields can be deployed to monitor patients ECG in a cheaper way at home, military camps, remote non clinical areas and small size hospitals, home and  middle class communities comparatively to the conventional clinical system. Use of already existing Internet is a major breakthrough in our idea. More than 100 diseases and their abnormalities in human body can be detected by remote physician using this implementation. In data acquisition module, programming Arduino based shields to acquire data from electrical activities of heart or muscles sending data using USB interfacing which will be stored in PC and upload on website named “www. hostpkdesgins. com” where doctor can visually see this information and complete prescriptions can be given by doctor. Here doctor can also serve more patients than conventional ECG systems. Use of same technology implementation we can develop system based on electromyogram, electroencephalogram and many more but the problem is during implementation these Arduino based shield are highly effected by temperature and results also changed due to high temperature.
-          </p></li>
-          <li><a href="../Attachments/Web Based ECG Monitoring System.pdf" > Thesis </a></li>
-        </ul>
-      </div>
-      <h2> SAP ALU Desing on Spartan 6 FPGA </h2>
-      <div class="box">
-        <h3> Simple As Possible ALU Design </h3>
-        <ul>
-          <li> <p> The Simple-As-Possible (SAP)-1 computer is a very basic model of a microprocessor explained by Albert Paul Malvino1. The SAP-1 design contains the basic necessities for a functional Microprocessor.  Its primary purpose is to develop a basic understanding of how a microprocessor works, interacts with memory and other parts of the system like input and output. The instruction set is very limited and is simple. </p> </li>
-          <li> <a href="../Attachments/SAP1.pdf" > Project Presentation </a> </li>
-        </ul>
+
+      <h3> Dafny Interactive Theorem Prover </h3>
+        <p> Formal program verification has been used as a technique to ensure program correctness for several years. In this paper, the backend of formal verification system, named Boogie IVL, is discussed using interactive verifier named the Dafny. In this paper, the Dafny language and verifier are reviewed in detail. Some important features which are unavailable in high level programming languages like Java, C, and, Python but the Dafny language has direct support for those features namely sets, sequences, and, termination matric etc. The Dafny IDE and its integration available with Visual Studio is being used as verifier of a complete software system. It supports modularity, generic classes, abstraction, and, reverification. The Dafny compiler can produce both .NET executable code and verification conditions for Boogie Verification Debugger. We have also analysed the verification results of algorithms named, bubble sort, nth fibonacci number, and, schorr waite with benefits of using Dafny IDE. When the Dafny language was designed some essential techniques in formal verification namely, verification-splitting and timeout had not received attention by its developers. These features are highlighted in this paper, and we found that as compared to other verifiers e.g VCC, Eiffel, and, Spec# the Dafny verifier IDE has more interactive program verification system.
+        <br>
+        <a href="../Attachments/Formal Verification in Dafny.pdf" > Read Full Text </a>
+        </p>
+
+      <h3> In-Memory Processing with Micron Automata Processors </h3>
+        <p> Since IoT is an information technology buzzword today, and In-Memory Computation is a highly parallel processing architecture of comprehensive search and analysis. There is no standard architecture for IoT, exploring the architectural aspects of authentication of things connected to others via the Internet and small networks. This process is compulsory before joining the internet either it is Web of Things, Machine to Machine, or Human to Machine frame of communication. For connected moveable devices or objects when they switch from one network to another, their connectivity to the network must be ensured, and on the other side when intrusion encountered from outside the IoT environment it must be handled by the security policy implemented on servicing computing machine. This search is as simple to implement with hash tables, but hashing becomes inefficient when entries become more significant and not scalable. Devices profiles and firewalls for authentication and intrusion detection/prevention must be maintained after they are authenticated. When thousands of devices need to get connected with IoT environment then managing their authentication and intrusion blocking policies must be performed quickly and giving an impression of dedicated service response from the server machine. These high-performance servers are implemented with MIMD machines. Accelerating service of requests from IoT’s low-end devices using In-Memory Computation is will be a new approach for comprehensive search and analysis. The technique of Automata Processing used for search of device identity speed up the processes of authentication if implemented on Micron Automata Processor, an In-Memory Computing Architecture. In this report with amalgamation of IoT and Non-Von Neuman Architecture with a new approach of authentication with their background and viability study.
+        <br>
+        <a href="../Attachments/Report HPCA.pdf" > Read Full Text </a>
+      </p>
+
+      <h3> Telemedicine Web Applications </h2>
+            <p> Telemedicine services increase the quality and accessibility of healthcare services. In this project named “Web Based ECG Monitoring System” we develop ECG monitoring which has potential to address diverse diseases in human body and by increasing the quality of treatment. Monitor Patients in remote area where clinical services such as ECG are not available. Off the shelf Arduino based shields can be deployed to monitor patients ECG in a cheaper way at home, military camps, remote non clinical areas and small size hospitals, home and  middle class communities comparatively to the conventional clinical system. Use of already existing Internet is a major breakthrough in our idea. More than 100 diseases and their abnormalities in human body can be detected by remote physician using this implementation. In data acquisition module, programming Arduino based shields to acquire data from electrical activities of heart or muscles sending data using USB interfacing which will be stored in PC and upload on website named “www. hostpkdesgins. com” where doctor can visually see this information and complete prescriptions can be given by doctor. Here doctor can also serve more patients than conventional ECG systems. Use of same technology implementation we can develop system based on electromyogram, electroencephalogram and many more but the problem is during implementation these Arduino based shield are highly effected by temperature and results also changed due to high temperature.
+            <br>
+            <a href="../Attachments/Web Based ECG Monitoring System.pdf" > Thesis </a>
+            </p>
+        </div>
+
+        <h2> Course Projects </h2>
+        <div class="box">
+          <h3> Object Oriented Software Desing and Specification: Schedule Management Application implemented using Software Desing-by-Contract Approach </h3>
+              <p> Create course schedule, view that schedule with section, room#, instructor and time interval. Manipulate weekly schedule, identify conflicts, enter constraints (hard & Soft), suggest schedule with minimized conflicts.
+                <br>
+                <a href="../Attachments/Design by Contract Schedule Management.pdf" > Read Full Text </a>
+              </p>
+
+            <h3> Java: Multithreaded Messanger Applications with Randezevous Synchronization </h3>
+            <p> In this project, A Multithreaded Client-Server Architecture based application is implemented which works like a group chat room. Since Java has a most dominant impact on Network Programming timeline and this application problem inherently come up with network involvement plus concurrency and synchronization in parallel operations of clients. Java is also good in multithreading solutions. So, Java platform will be used in the development of this project and all the sources will be tested and build using JDK later JVM. The server will run continuously receiving requests from connecting clients and grant access to chat group using Java Socket Programming Primitives. Parallelism in Java is no doubt excellent we can take advantage of multithreaded parallelism but host machines may differ in different situations so the code must be optimized generally for all machines. One of the big challenges is using socket programming granularity of synchronization point will increases as compared to interface programming of Java but it is good to catch up those synchronization granularities for more optimized application development. The server has its backlog as a bottleneck to respond limited set of clients at a time. We are going to scale it to a larger number of users in future. Security is a big challenge for intrusion detection and prevention in chat room.
+            <br>
+            <a href="../Attachments/ACP Project Presentation.pdf" > Project Presentation </a>
+            <a href="../Attachments/ACP Report.pdf" > Read Full Text </a>
+          </p>
+
+          <h3> SAP ALU Desing and implementation on Spartan 6 FPGA </h3>
+           <p> The Simple-As-Possible (SAP)-1 computer is a very basic model of a microprocessor explained by Albert Paul Malvino1. The SAP-1 design contains the basic necessities for a functional Microprocessor.  Its primary purpose is to develop a basic understanding of how a microprocessor works, interacts with memory and other parts of the system like input and output. The instruction set is very limited and is simple.
+             <br>
+             <a href="../Attachments/SAP1.pdf" > Project Presentation </a>
+           </p>
+
+          <h3> A Case Study: Desing of C++ Library To Investigate The Object Oriented Desing of Automated Teller Machines </h3>
+          <p> ATM (Automated Teller Machine) library developed for ready to be used for Object-Oriented designs
+            <br>
+            <a href="../Attachments/ATM Case Study.pdf" > Project Presentation </a>
+          </p>
       </div>
 
-      <h2> A Case Study: Object Oriented Desing of Automated Teller Machines </h2>
+    <h2> Self-Paced Projects </h2>
       <div class="box">
-        <h3> C++ Library </h3>
-        <ul>
-          <li> <p> ATM (Automated Teller Machine) library developed for ready to be used for Object-Oriented designs </p> </li>
-          <li> <a href="../Attachments/ATM Case Study.pdf" > Project Presentation </a> </li>
-          <ul>
-          </div>
-          <div class="box">
-            <h3> Research Phile:</h3>
-            <p> Explore interesting research groups:</p>
-            <ul>
-              <li> <a href="https://galois.com/research-development/"> Software Verification and Cryptography by "Galois"</a> </li>
+        <ol>
+          <li>  “To Do” list GUI desktop application in Java – MVC </li>
+          <li>  “Todo List” Web/Mobile Application using ReactJS, CSS, HTML </li>
+          <li>  Web base ECG acquisition and record management application </li>
+          <li>  Multithreaded client- server implementation for Multicast and Directed Broadcast messaging using observer pattern in Java </li>
+          <li>  Trans-compiler design (Java to Verilog) – Recursive Decent Parsing </li>
+          <li>  Parallel Connected Component Labeling for determining the letters inside an image and Unsharp Mask & High Boost Filtering” algorithm on Spartan-6 FPGA </li>
+          <li>  SQL based Database design for car showroom – Relational Database </li>
+          <li>  Automated Teller Machine implementation in C++ for 4 million accounts with dynamic memory management </li>
+          <li>  SAP computer architecture implementation on FPGA XC6SLX45(CSG324C) </li>
+          <li>  Sound direction indicator with 24 moves </li>
+          <li>  Traffic Control Signal design with all way stop synchronization using Ladder Logic, implemented by Siemens S7-200 PLC processor’s delay counters </li>
+          <li>  Median Filtering of Gray Scale Image using Spartan-6 FPGA Family </li>
+          <li>  PRAM Rank Sort algorithm implementation using MATLAB parallel computing toolbox </li>
+          <li>  Client-Server Architecture implementation for text sharing using TCP socket with Java </li>
+          <li>  Electronic voting machine using AT89C51- a password protected application </li>
+        <ol>
+    </div>
+
+      <h2> Research Phile</h2>
+        <div class="box">
+          <p> Explore interesting research groups:</p>
+           <ul>
+            <li> <a href="https://galois.com/research-development/"> Software Verification and Cryptography by "Galois"</a> </li>
               <li> <a href="https://engineering.virginia.edu/center-automata-processing-cap"> Center of Automata Processing</a> </li>
               <li> <a href="https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/">Software Correctnes research group in "Imperial College London"</a> </li>
               <li> <a href="https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/"> Research in Software Engineerin (RiSE)g by "Microsoft"</a> </li>
-            </ul>
-          </div>
-
-          <h2> Self Paced Projects </h2>
-          <div class="box">
-            <ul>
-              <li>  “To Do” list GUI desktop application in Java – MVC </li>
-              <li>  “Todo List” Web/Mobile Application using ReactJS, CSS, HTML </li>
-              <li>  Web base ECG acquisition and record management application </li>
-              <li>  Multithreaded client- server implementation for Multicast and Directed Broadcast messaging using observer pattern in Java </li>
-              <li>  Trans-compiler design (Java to Verilog) – Recursive Decent Parsing </li>
-              <li>  Parallel Connected Component Labeling for determining the letters inside an image and Unsharp Mask & High Boost Filtering” algorithm on Spartan-6 FPGA </li>
-              <li>  SQL based Database design for car showroom – Relational Database </li>
-              <li>  Automated Teller Machine implementation in C++ for 4 million accounts with dynamic memory management </li>
-              <li>  SAP computer architecture implementation on FPGA XC6SLX45(CSG324C) </li>
-              <li>  Sound direction indicator with 24 moves </li>
-              <li>  Traffic Control Signal design with all way stop synchronization using Ladder Logic, implemented by Siemens S7-200 PLC processor’s delay counters </li>
-              <li>  Median Filtering of Gray Scale Image using Spartan-6 FPGA Family </li>
-              <li>  PRAM Rank Sort algorithm implementation using MATLAB parallel computing toolbox </li>
-              <li>  Client-Server Architecture implementation for text sharing using TCP socket with Java </li>
-              <li>  Electronic voting machine using AT89C51- a password protected application </li>
-              <ul>
-              </div>
-
-              <footer class="footer">
-                <h3 align="center" background-color = "DodgerBlue"> <a href="http://inaamahmed.info/"> [Home] </a> </h3>
-                <table align = "center", width = 20%, border="0", padding = "0">
-                  <tr>
-                    <td align = "center"> <a href="mailto:inaama@mun.ca"> <i class="fas fa-at" style="font-size:24px"> </i> </a> </td>
-                    <td align = "center"> <a href="https://www.linkedin.com/in/inaam-ahmed/" target=”_blank”> <i class="fab fa-linkedin" style="font-size:24px"> </i> </a> </td>
-                    <td align = "center"> <a href="https://github.com/Inaam-Ahmed" target=”_blank”> <i class="fab fa-github-square" style="font-size:24px"> </i> </a> </td>
-                    <td align = "center"> <a href="https://gitlab.com/Inaam-Ahmed" target=”_blank”> <i class="fab fa-gitlab" style="font-size:24px"> </i> </a> </td>
-                    <td align = "center"> <a href="https://www.facebook.com/namii.ahmed" target=”_blank”> <i class="fab fa-facebook" style="font-size:24px"> </i> </a> </td>
-                  </tr>
-                </table>
-                <footer>
-
-                </body>
-                </html>
+          </ul>
+        </div>
+  <footer class="footer">
+    <h3 align="center" background-color = "DodgerBlue"> <a href="http://inaamahmed.info/"> [Home] </a> </h3>
+      <table align = "center", width = 20%, border="0", padding = "0">
+        <tr>
+         <td align = "center"> <a href="mailto:inaama@mun.ca"> <i class="fas fa-at" style="font-size:24px"> </i> </a> </td>
+         <td align = "center"> <a href="https://www.linkedin.com/in/inaam-ahmed/" target=”_blank”> <i class="fab fa-linkedin" style="font-size:24px"> </i> </a> </td>
+         <td align = "center"> <a href="https://github.com/Inaam-Ahmed" target=”_blank”> <i class="fab fa-github-square" style="font-size:24px"> </i> </a> </td>
+         <td align = "center"> <a href="https://gitlab.com/Inaam-Ahmed" target=”_blank”> <i class="fab fa-gitlab" style="font-size:24px"> </i> </a> </td>
+         <td align = "center"> <a href="https://www.facebook.com/namii.ahmed" target=”_blank”> <i class="fab fa-facebook" style="font-size:24px"> </i> </a> </td>
+        </tr>
+      </table>
+  <footer>
+ </body>
+</html>
