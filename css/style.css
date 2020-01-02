@@ -67,17 +67,6 @@ div.box{
   -moz-border-radius: 10px ;
   border-radius: 5px ;
 }
-.home-btn{
-  background-color: #59A4FF;
-  color: white;
-  padding: 5px;
-  border-radius: 4px;
-  text-decoration: none;
-}
-
-.home-btn:hover{
-  background-color: #44449b; /* Dark Slate Blue */
-}
 
 .box h3{
   color: black;
