@@ -1,8 +1,10 @@
 body{
   background-color: brown;
   color: white;
-  width: 80%;
+  width: 90%;
   margin: 0 auto;
+  font-family: sans-serif;
+  font-size: 12pt;
 }
 
 h1{
@@ -16,6 +18,28 @@ h2{
 h3{
   color: white;
 }
+
+.menu {
+  width: 100%;
+  margin: 5px auto;
+  padding: 2px;
+}
+
+.btn{
+  background-color: #59A4FF;
+  color: white;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  margin: 2px;
+  display: inline-block;
+}
+
+.btn:hover{
+  background-color: #44449b; /* Dark Slate Blue */
+  color: white;
+}
+
 
 a{
   color: #59A4FF;
